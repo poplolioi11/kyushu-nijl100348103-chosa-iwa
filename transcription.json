@@ -1,0 +1,4215 @@
+{
+  "metadata": {
+    "title": "長沙醫話初編",
+    "catalogue_title": "長沙醫話",
+    "roman_title": "Chōsa iwa shohen",
+    "author": "岸田雲（仙裳）",
+    "date": "刊面作嘉永癸丑新鐫，館方影像目錄標嘉永六年（1853）。同件 CiNii 館目把嘉永六年誤寫為 1859。",
+    "location": "日本福岡（現藏）",
+    "repository": "九州大學附屬圖書館醫學圖書館",
+    "repository_en": "Medical Library, Kyushu University",
+    "collection": "和漢古醫書",
+    "shelfmark": "チ-54",
+    "catalogue": "https://kokusho.nijl.ac.jp/biblio/100348103",
+    "original_source_doi": "10.20730/100348103",
+    "rights": "https://www.lib.kyushu-u.ac.jp/ja/reuse",
+    "description": "岸田雲（仙裳）的江戶漢文醫論，談《傷寒論》讀法、方證取捨、舊說與醫案，並評近世日本醫者使用譯本及讀錯漢籍的例子。九州大學醫學圖書館藏建古堂刊本。第3幅與第4幅為同開面，取館方第4幅錄見返及左面自序。第32幅右面為終題。",
+    "manifest_url": "https://kokusho.nijl.ac.jp/biblio/100348103/manifest",
+    "manifest_sha256": "2cad6987d7f9b684e7ad76515479e06b9dd3c6dcf48ba706dca60b4fc6249641",
+    "record_id": "NIJL100348103",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "version": "0.1.0",
+    "dataset_title": "長沙醫話初編（1853 年刊面，九州大學 チ-54） / Chōsa iwa shohen [Medical discussions on Zhang Zhongjing, first series]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/1",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00000.tif/full/full/0/default.jpg",
+      "label": "1",
+      "file": "01.jpg",
+      "sha256": "1f72a1f33c0c0e28207eda4370d828372b48f59ed149c67d58d9b1f4181b9b4a",
+      "bytes": 141177,
+      "native_width": 3308,
+      "native_height": 4677,
+      "content_role": "binding-or-digitization-metadata",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "攝影牌",
+              "text": "KYUS-01117　長沙醫話　刊　一冊",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "所藏與函号",
+              "text": "九州大学医学図書館　和漢古医書／チ-54",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "九州大学医学図書館　和漢古医書",
+                "チ-54"
+              ]
+            },
+            {
+              "type": "copy-annotation",
+              "location": "書目連結碼",
+              "text": "BA59482653",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "攝影年月",
+              "text": "令和二年十月　国文学研究資料館",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：現代攝影識別牌。正文從第4幅開始，現代牌記不列入正文。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/2",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00001.tif/full/full/0/default.jpg",
+      "label": "2",
+      "file": "02.jpg",
+      "sha256": "457599def043dc9db3c6353d6a7812090be80bd66d7893ab52925e2568899b84",
+      "bytes": 196986,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "binding-or-digitization-metadata",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "封面題籤",
+              "text": "長沙醫話初編",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "題籤右上墨記",
+              "text": "（廿四）一九",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "題籤右下價記",
+              "text": "拾五圓也",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "題籤下紅印字",
+              "text": "木内書店",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "館藏籤",
+              "text": "チ-54",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "黃紙原封。題籤右側另見紅色圓印及「金」字，「（廿四）一九」待核。版面外為色標與量尺。"
+        }
+      ],
+      "observations": "單幅：黃紙原封。題籤右側另見紅色圓印及「金」字，「（廿四）一九」待核。版面外為色標與量尺。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/3",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00002.tif/full/full/0/default.jpg",
+      "label": "3",
+      "file": "03.jpg",
+      "sha256": "ce5c04c15ea44c8782244a1a0df7e3d5e827057f0bb7116c0b8327f1e91d711e",
+      "bytes": 250434,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "repeated-opening-with-library-label",
+      "duplicate_of_image": 4,
+      "include_in_primary_reading_order": false,
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "現代館藏條碼",
+              "text": "042112001780827　九州大学蔵書",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "序首與第4幅相同。兩枚朱色館章保留原圖位置，墨色疊影待核。"
+        }
+      ],
+      "observations": "右面：與第4幅是同一開面。此幅館籤遮住部分正刊見返，書名、序及刊記統一錄在下一幅。 左面：序首與第4幅相同。兩枚朱色館章保留原圖位置，墨色疊影待核。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/4",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00003.tif/full/full/0/default.jpg",
+      "label": "4",
+      "file": "04.jpg",
+      "sha256": "038735a8dfe150a8ca2a1c573c9d9e049d9a31fd12762a0e2068f935b568ee5a",
+      "bytes": 252796,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "嘉永癸丑新鐫"
+            },
+            {
+              "text": "不許販市"
+            },
+            {
+              "text": "長沙醫話初編"
+            },
+            {
+              "text": "建古堂藏板"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "長沙醫話自序"
+            },
+            {
+              "text": "荀子有言曰道雖邇不行不至事雖"
+            },
+            {
+              "text": "小不為不成蓋醫之於業也道之通"
+            },
+            {
+              "text": "事雖小然而能至其道者少求其至"
+            },
+            {
+              "text": "者亦不少矣余曾講書之餘門生屢"
+            },
+            {
+              "text": "歎醫之有遇不遇殆將廢學因喩之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "序",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "道之通",
+          "candidates": [],
+          "note": "兩方朱印在序題上方，其中長方印數字見 3411；未盡釋。行間可見返點。第三欄末「道之通」、第四欄末「求其至」待核。第二欄「邇」行書近「通」，待以字形重核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "求其至",
+          "candidates": [],
+          "note": "兩方朱印在序題上方，其中長方印數字見 3411；未盡釋。行間可見返點。第三欄末「道之通」、第四欄末「求其至」待核。第二欄「邇」行書近「通」，待以字形重核。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "邇",
+          "candidates": [],
+          "note": "兩方朱印在序題上方，其中長方印數字見 3411；未盡釋。行間可見返點。第三欄末「道之通」、第四欄末「求其至」待核。第二欄「邇」行書近「通」，待以字形重核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "通",
+          "candidates": [],
+          "note": "兩方朱印在序題上方，其中長方印數字見 3411；未盡釋。行間可見返點。第三欄末「道之通」、第四欄末「求其至」待核。第二欄「邇」行書近「通」，待以字形重核。"
+        }
+      ],
+      "observations": "右面：紅色見返。首行橫題自右向左，第二至四行為自右向左三欄。「初編」在大題之下。上下各有後加貼籤。 左面：兩方朱印在序題上方，其中長方印數字見 3411；未盡釋。行間可見返點。第三欄末「道之通」、第四欄末「求其至」待核。第二欄「邇」行書近「通」，待以字形重核。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/5",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00004.tif/full/full/0/default.jpg",
+      "label": "5",
+      "file": "05.jpg",
+      "sha256": "9327a1c0cf45c4b831f96d52d934113faedfcf40952ef470ad2ba712e767b44d",
+      "bytes": 224280,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "曰遇不遇者時也修業者醫之職也"
+            },
+            {
+              "text": "何可廢學乎有一醫於其門設雀羅"
+            },
+            {
+              "text": "自迺卷閱試查其學術則經籍該博"
+            },
+            {
+              "text": "醫云無遺於術以夐然超絶其才學"
+            },
+            {
+              "text": "如此而不遇者時也何恥之有又有"
+            },
+            {
+              "text": "一醫胸中無寸墨巧偽以眩人診病"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "按方曰是見外臺彼載千金孰知其"
+            },
+            {
+              "text": "實則不讀原書惟按類錄末書耳若"
+            },
+            {
+              "text": "其末書有差何能正之徒襲其誤不"
+            },
+            {
+              "text": "但誤其身亦以誤病者豈不可太息"
+            },
+            {
+              "text": "之甚哉二三子將執石乎余不敏濫"
+            },
+            {
+              "text": "列醫員辱公之寵遇常恐其業之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "序",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "自迺卷閱",
+          "candidates": [],
+          "note": "第三欄起「自迺卷閱」與第四欄「云」「於術以夐」待核。行間可見返點。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "云",
+          "candidates": [],
+          "note": "第三欄起「自迺卷閱」與第四欄「云」「於術以夐」待核。行間可見返點。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "於術以夐",
+          "candidates": [],
+          "note": "第三欄起「自迺卷閱」與第四欄「云」「於術以夐」待核。行間可見返點。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "按",
+          "candidates": [],
+          "note": "行間可見返點。第二欄「按」「類」及第二、三欄「末」待核。末欄「辱」後空一字位再寫「公」。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "類",
+          "candidates": [],
+          "note": "行間可見返點。第二欄「按」「類」及第二、三欄「末」待核。末欄「辱」後空一字位再寫「公」。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "末",
+          "candidates": [],
+          "note": "行間可見返點。第二欄「按」「類」及第二、三欄「末」待核。末欄「辱」後空一字位再寫「公」。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "辱",
+          "candidates": [],
+          "note": "行間可見返點。第二欄「按」「類」及第二、三欄「末」待核。末欄「辱」後空一字位再寫「公」。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "公",
+          "candidates": [],
+          "note": "行間可見返點。第二欄「按」「類」及第二、三欄「末」待核。末欄「辱」後空一字位再寫「公」。"
+        }
+      ],
+      "observations": "右面：第三欄起「自迺卷閱」與第四欄「云」「於術以夐」待核。行間可見返點。 左面：行間可見返點。第二欄「按」「類」及第二、三欄「末」待核。末欄「辱」後空一字位再寫「公」。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00005.tif/full/full/0/default.jpg",
+      "label": "6",
+      "file": "06.jpg",
+      "sha256": "2a6722e28025d048645e74960708c4331534153f51d248ac1d656d1afb26ebe0",
+      "bytes": 217666,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "不精勉勵研究日既尚矣慕倣長沙"
+            },
+            {
+              "text": "氏之書案頭所說實際所行要不一"
+            },
+            {
+              "text": "循其方法然具侍久而論大略事綦"
+            },
+            {
+              "text": "省矣是以雖後世俗書擇其方法合"
+            },
+            {
+              "text": "長沙氏之言裨治療之用者而雜用"
+            },
+            {
+              "text": "之以不失古範則長沙氏之道可至"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "二",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "而事治可求焉假使有治法跡於長"
+            },
+            {
+              "text": "沙氏之機活運用得中肯綮者焉能"
+            },
+            {
+              "text": "執一以應萬以寡而振多乎若夫墨"
+            },
+            {
+              "text": "守一家之偏見而不他求者此猶欲"
+            },
+            {
+              "text": "持五寸之矩畫天下之方不亦難哉"
+            },
+            {
+              "text": "因乃錄前之所話命曰長沙醫話寘"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "序",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "日既尚",
+          "candidates": [],
+          "note": "行間可見返點。第一欄「日既尚」「慕倣」、第二欄「書」與第三欄「然具侍」「綦」屬行書疑讀，須再聯上下文覆核。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "慕倣",
+          "candidates": [],
+          "note": "行間可見返點。第一欄「日既尚」「慕倣」、第二欄「書」與第三欄「然具侍」「綦」屬行書疑讀，須再聯上下文覆核。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "書",
+          "candidates": [],
+          "note": "行間可見返點。第一欄「日既尚」「慕倣」、第二欄「書」與第三欄「然具侍」「綦」屬行書疑讀，須再聯上下文覆核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "然具侍",
+          "candidates": [],
+          "note": "行間可見返點。第一欄「日既尚」「慕倣」、第二欄「書」與第三欄「然具侍」「綦」屬行書疑讀，須再聯上下文覆核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "綦",
+          "candidates": [],
+          "note": "行間可見返點。第一欄「日既尚」「慕倣」、第二欄「書」與第三欄「然具侍」「綦」屬行書疑讀，須再聯上下文覆核。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "焉",
+          "candidates": [],
+          "note": "行間可見返點。第一欄「焉」「跡」、第三欄「振」、第五欄「亦」待核。第四欄「欲」與第五欄「持」句接。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "跡",
+          "candidates": [],
+          "note": "行間可見返點。第一欄「焉」「跡」、第三欄「振」、第五欄「亦」待核。第四欄「欲」與第五欄「持」句接。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "振",
+          "candidates": [],
+          "note": "行間可見返點。第一欄「焉」「跡」、第三欄「振」、第五欄「亦」待核。第四欄「欲」與第五欄「持」句接。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "亦",
+          "candidates": [],
+          "note": "行間可見返點。第一欄「焉」「跡」、第三欄「振」、第五欄「亦」待核。第四欄「欲」與第五欄「持」句接。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "欲",
+          "candidates": [],
+          "note": "行間可見返點。第一欄「焉」「跡」、第三欄「振」、第五欄「亦」待核。第四欄「欲」與第五欄「持」句接。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "持",
+          "candidates": [],
+          "note": "行間可見返點。第一欄「焉」「跡」、第三欄「振」、第五欄「亦」待核。第四欄「欲」與第五欄「持」句接。"
+        }
+      ],
+      "observations": "右面：行間可見返點。第一欄「日既尚」「慕倣」、第二欄「書」與第三欄「然具侍」「綦」屬行書疑讀，須再聯上下文覆核。 左面：行間可見返點。第一欄「焉」「跡」、第三欄「振」、第五欄「亦」待核。第四欄「欲」與第五欄「持」句接。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/7",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00006.tif/full/full/0/default.jpg",
+      "label": "7",
+      "file": "07.jpg",
+      "sha256": "d7b240124b2fbc86427fb84690f9de882bc9a61da02e664e6420879283754842",
+      "bytes": 217950,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "諸梓以為塾則云"
+            },
+            {
+              "text": "嘉永壬子歲晚立春前一日"
+            },
+            {
+              "text": "忍侍醫　屏山岸田雲撰併書"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 3,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "三",
+              "column_anchor": 3,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "長沙醫話"
+            },
+            {
+              "text": "忍侍醫　岸田雲仙裳氏著"
+            },
+            {
+              "text": "夫治國之道有仁義有刑名其事雖異其致治者一"
+            },
+            {
+              "text": "也醫之道有古疾醫有五行醫其術雖異其治病者"
+            },
+            {
+              "text": "一也治國之道非吾所容吻故置而不論焉醫者吾"
+            },
+            {
+              "text": "職之所當務雖一得之見豈可箝默乎呂氏春秋曰"
+            },
+            {
+              "text": "長劍期乎斷不期乎鏌鋣良馬期乎千里不期乎驥"
+            },
+            {
+              "text": "驁醫之擇藥選方亦然凡中國戎夷五方之民皆異"
+            },
+            {
+              "text": "其性故不必期乎往古定制之方而以實地經驗之"
+            },
+            {
+              "text": "方為貴焉我門主張古疾醫之道其方也論也常據"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "一",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "前",
+          "candidates": [],
+          "note": "自序訖。「前」字行書待核。署名左下兩方黑篆印，留位置未盡釋。空欄只見背面透字。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "容吻",
+          "candidates": [],
+          "note": "正文從此起。行間可見返點。「容吻」依字形暫錄，「鏌鋣」兩字金旁清楚，右部待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "鏌鋣",
+          "candidates": [],
+          "note": "正文從此起。行間可見返點。「容吻」依字形暫錄，「鏌鋣」兩字金旁清楚，右部待核。"
+        }
+      ],
+      "observations": "右面：自序訖。「前」字行書待核。署名左下兩方黑篆印，留位置未盡釋。空欄只見背面透字。 左面：正文從此起。行間可見返點。「容吻」依字形暫錄，「鏌鋣」兩字金旁清楚，右部待核。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/8",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00007.tif/full/full/0/default.jpg",
+      "label": "8",
+      "file": "08.jpg",
+      "sha256": "de2451400384900affc609f81c0ece7628c76950dc392de5f4eecbcb023c54a1",
+      "bytes": 259611,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "張氏之法則而張氏距今二千有餘年矣其書也經"
+            },
+            {
+              "text": "晉王叔和撰次攪鬭錯亂玉石混淆其全豹不可得"
+            },
+            {
+              "text": "而窺焉余未嘗不為斯道發大息也唐宋以降技能"
+            },
+            {
+              "text": "之士不為寡驗之於實地得其方之精者亦多矣且"
+            },
+            {
+              "text": "藥石之類不試之於古而有功於今者亦不堪屈指"
+            },
+            {
+              "text": "苟合於張氏之規範而有益于治病則用之亦何害"
+            },
+            {
+              "text": "之有哉故我門汗吐下和之四方循張氏之古訓而"
+            },
+            {
+              "text": "用後世之藥材者亦有之然以不敗法壞類者為本"
+            },
+            {
+              "text": "旨焉韓子有言曰聖人不期修古又曰治民無常唯"
+            },
+            {
+              "text": "治為法法與時轉則治治與世宜則有功矣故土地"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "山川之異燥濕飲食之殊身體強弱之差自有區別"
+            },
+            {
+              "text": "則病之在身藥之於病亦必有辨焉故據古法以應"
+            },
+            {
+              "text": "其變猶權衡屢移輕重各得其宜也韓子之言亦可"
+            },
+            {
+              "text": "以言醫事蓋醫雖賤役然古人以比相將之良者有"
+            },
+            {
+              "text": "以哉治病者有一誤則必害於人命殆如彼坑四十"
+            },
+            {
+              "text": "萬卒者豈可不懼哉是以學醫之徒先學聖人之道"
+            },
+            {
+              "text": "以知修身處事之要旁讀良醫之書而通古今之方"
+            },
+            {
+              "text": "據己之所長之科以立規則行權宜以涉事實者此"
+            },
+            {
+              "text": "之謂君子醫矣不學無術飾非遂過以鬻虛偽者此"
+            },
+            {
+              "text": "之謂小人醫矣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "二",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "攪鬭",
+          "candidates": [],
+          "note": "行間可見返點。第二欄「攪鬭」與第八欄「類」待核。末欄兩「治」相接依版面錄。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "類",
+          "candidates": [],
+          "note": "行間可見返點。第二欄「攪鬭」與第八欄「類」待核。末欄兩「治」相接依版面錄。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "治",
+          "candidates": [],
+          "note": "行間可見返點。第二欄「攪鬭」與第八欄「類」待核。末欄兩「治」相接依版面錄。"
+        }
+      ],
+      "observations": "右面：行間可見返點。第二欄「攪鬭」與第八欄「類」待核。末欄兩「治」相接依版面錄。 左面：行間可見返點。末欄留白為段落終結。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/9",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00008.tif/full/full/0/default.jpg",
+      "label": "9",
+      "file": "09.jpg",
+      "sha256": "76e34c6fdaca03bdab2fc8082b5becd09e6a460e9625eb26cc4272f25d48655d",
+      "bytes": 259152,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "樂成篇云舟車之始見也三世然後安之夫創造之"
+            },
+            {
+              "text": "事豈易易哉何則衆人之情始而驚中而排終而定"
+            },
+            {
+              "text": "故極頴異開偉業無相繼而輔翼之者則不能大行"
+            },
+            {
+              "text": "於天下也嗟乎吾疾醫之道距長沙氏既二千有餘"
+            },
+            {
+              "text": "年矣榛莽滋蔓事跡埋沒未嘗有一人得其正路者"
+            },
+            {
+              "text": "獨東洞翁以雄偉卓越之才感激憤發剪棘闢塞而"
+            },
+            {
+              "text": "豁如也其徒亦逞才掉臂羽翼其道鼓吹後進故其"
+            },
+            {
+              "text": "道不久而翕然殆定此不亦一大偉事乎今也經三"
+            },
+            {
+              "text": "世之久而其道彌開其術益精天下之人既安之如"
+            },
+            {
+              "text": "此則陰陽醫之徒勢衰氣竭將不能保立錐之地矣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "然而兩勢相張未知鹿落於誰之手者何也蓋欲開"
+            },
+            {
+              "text": "其道者排擊必至故其書辨破五行配當補虛迂怪"
+            },
+            {
+              "text": "之陋弊以矯陰陽醫之誣誤故其論有惡其人而及"
+            },
+            {
+              "text": "屋烏者長沙書中其理純粹如玉者其辭氣僅有髣"
+            },
+            {
+              "text": "髴于陰陽醫者則皆混之珉石而不取焉此蓋過於"
+            },
+            {
+              "text": "矯而反失者也然此豈翁之本心哉其英邁豪毅排"
+            },
+            {
+              "text": "擊舊弊竟至於斯而已昔秦始皇懲六國之舊弊欲"
+            },
+            {
+              "text": "一新其政終燒天下之書坑天下之儒者蓋非始皇"
+            },
+            {
+              "text": "之本心也矯揉之過至於斯者自然之勢也故輔翼"
+            },
+            {
+              "text": "之臣能斟酌其意以節分之則何至於斯乎故疾醫"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "三",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 5,
+          "context": "榛莽",
+          "candidates": [],
+          "note": "行間可見返點。第五欄「榛莽」及第八欄「翕」待核。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "翕",
+          "candidates": [],
+          "note": "行間可見返點。第五欄「榛莽」及第八欄「翕」待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "誣",
+          "candidates": [],
+          "note": "行間可見返點。第三欄「誣」待核，第四、五欄接「髣髴」。"
+        }
+      ],
+      "observations": "右面：行間可見返點。第五欄「榛莽」及第八欄「翕」待核。 左面：行間可見返點。第三欄「誣」待核，第四、五欄接「髣髴」。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/10",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00009.tif/full/full/0/default.jpg",
+      "label": "10",
+      "file": "10.jpg",
+      "sha256": "1d466752a8e799bb2b13928d06ac6cfe6a954098f672033c35e1704b6e8616a2",
+      "bytes": 254674,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "之徒亦能知翁之不競不絿臨事而懼之意而能節"
+            },
+            {
+              "text": "其過則何至以攻擊峻劑猝為活法而療其病乎病"
+            },
+            {
+              "text": "位有淺深毒氣有輕重而暴虎馮河以施其治豈得"
+            },
+            {
+              "text": "無差錯哉嗚呼翁之舟車既及于三世而不能安定"
+            },
+            {
+              "text": "天下之人心者此非其論說之過乃後學不能承意"
+            },
+            {
+              "text": "行事之罪也若有一雄傑之士知翁之意者出于世"
+            },
+            {
+              "text": "則其道之恢復可立而待矣傳云人能弘道非道弘"
+            },
+            {
+              "text": "人恨吾未見其人耳"
+            },
+            {
+              "text": "醫者意也之說興而業醫者以智巧為專務不但用"
+            },
+            {
+              "text": "之病巧言術技令色接人私意百端無所不至焉惟"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "醫之有學術者則不然明聖賢之道而修良相之功"
+            },
+            {
+              "text": "其言行端厚懸衡而知平設規而知圓溫然其仁卓"
+            },
+            {
+              "text": "然其識不欲脅笑姁媮以容于世故俗眼視以為拙"
+            },
+            {
+              "text": "然而其臨病施治也戒慎熟思能察其症以處其方"
+            },
+            {
+              "text": "故雖變証百出未嘗束手受敗焉彼用機巧者恃私"
+            },
+            {
+              "text": "智而不涉古書肆意妄作蔑視醫範漫然自用棄本"
+            },
+            {
+              "text": "務標僥倖於萬一而付人命於菅芥以誣世欺人亦"
+            },
+            {
+              "text": "何不自羞之甚哉老子曰以智治國國之賊也韓子"
+            },
+            {
+              "text": "曰舍法任智則危嗚呼智者五常之一也而其惡智"
+            },
+            {
+              "text": "如此者何也蓋不依聖賢之大法而專馳其私智則"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "四",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "絿",
+          "candidates": [],
+          "note": "行間可見返點。首欄「絿」、次欄「猝」與末欄「術」待核。第八欄末留白接新段。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "猝",
+          "candidates": [],
+          "note": "行間可見返點。首欄「絿」、次欄「猝」與末欄「術」待核。第八欄末留白接新段。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "術",
+          "candidates": [],
+          "note": "行間可見返點。首欄「絿」、次欄「猝」與末欄「術」待核。第八欄末留白接新段。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "脅笑姁媮",
+          "candidates": [],
+          "note": "行間可見返點。第三欄「脅笑姁媮」、第七欄「標」待核。第四欄「症」與第五欄「証」依底本分錄。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "標",
+          "candidates": [],
+          "note": "行間可見返點。第三欄「脅笑姁媮」、第七欄「標」待核。第四欄「症」與第五欄「証」依底本分錄。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "症",
+          "candidates": [],
+          "note": "行間可見返點。第三欄「脅笑姁媮」、第七欄「標」待核。第四欄「症」與第五欄「証」依底本分錄。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "証",
+          "candidates": [],
+          "note": "行間可見返點。第三欄「脅笑姁媮」、第七欄「標」待核。第四欄「症」與第五欄「証」依底本分錄。"
+        }
+      ],
+      "observations": "右面：行間可見返點。首欄「絿」、次欄「猝」與末欄「術」待核。第八欄末留白接新段。 左面：行間可見返點。第三欄「脅笑姁媮」、第七欄「標」待核。第四欄「症」與第五欄「証」依底本分錄。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/11",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00010.tif/full/full/0/default.jpg",
+      "label": "11",
+      "file": "11.jpg",
+      "sha256": "8c592757edc4c393834181b25ece9f1f7a742becf3621646959a3cb529656308",
+      "bytes": 259195,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "必至為穿鑿妄行此所惡於智者也故智者以學術"
+            },
+            {
+              "text": "為本循義理而行之則智亦大矣故學術以守其常"
+            },
+            {
+              "text": "智巧以應其變則醫之能事盡矣知常而不知變則"
+            },
+            {
+              "text": "活物反成死物譬如以畫餅療饑者故學術之偏見"
+            },
+            {
+              "text": "反不如智巧之得其宜焉然而學術之過少而智巧"
+            },
+            {
+              "text": "之過多矣學者所宜盡心也"
+            },
+            {
+              "text": "論語云人而無恒不可以作巫醫夫醫之有恒也有"
+            },
+            {
+              "text": "二矣學聖賢之道而知修身之要讀秦張之書以得"
+            },
+            {
+              "text": "治病之法臨其實地也雖小恙未審其源則小心覈"
+            },
+            {
+              "text": "證考方不敢漫然下手明察其病則不避猛烈之藥"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "放膽以攻擊之其所知則為知其所不知為不知一"
+            },
+            {
+              "text": "機一活不失其度而取功者此其尤上者也謹守常"
+            },
+            {
+              "text": "度心存仁慈一夜十起往看患者若遇其變則膽破"
+            },
+            {
+              "text": "魂潰轉方數四百計不遺比之鬼面嚇人之徒則其"
+            },
+            {
+              "text": "心固善矣此亦其次也又有身居司命之官馳名走"
+            },
+            {
+              "text": "利售虛鬻伎咈義以從己之欲背信而棄人之憂者"
+            },
+            {
+              "text": "此豈得謂有恒之醫乎然其徒或反奮威逞勢為衆"
+            },
+            {
+              "text": "人所貴寵者何也因時勢而僥倖者也蓋有恒者愧"
+            },
+            {
+              "text": "衒虛以售技故能循其術苟不信於人則窮約自甘"
+            },
+            {
+              "text": "持守其操而不失焉夫以道說人賢哲之士猶難之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "五",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 4,
+          "context": "饑",
+          "candidates": [],
+          "note": "行間可見返點。第四欄「饑」、第九欄末「覈」待核。第六欄末留白接新段。"
+        },
+        {
+          "side": "right",
+          "column": 9,
+          "context": "覈",
+          "candidates": [],
+          "note": "行間可見返點。第四欄「饑」、第九欄末「覈」待核。第六欄末留白接新段。"
+        }
+      ],
+      "observations": "右面：行間可見返點。第四欄「饑」、第九欄末「覈」待核。第六欄末留白接新段。 左面：行間可見返點。第六欄「鬻伎咈」暫依字形錄，待再核。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/12",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00011.tif/full/full/0/default.jpg",
+      "label": "12",
+      "file": "12.jpg",
+      "sha256": "099f8d7ddb7cd29eb53b5b210a9e350aca116e6d8c658c7e558792acdfae9646",
+      "bytes": 264624,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "況以其下者說驕侈愚蠢之人乎故醫之於病其可"
+            },
+            {
+              "text": "攻者必攻之明奏功驗不避嫌忌則俗人或訕以為"
+            },
+            {
+              "text": "暴焉惟養補以培病暗斃人命佞言贖罪則俗人不"
+            },
+            {
+              "text": "察妄以為命焉是以今之醫所以不用意於濟世而"
+            },
+            {
+              "text": "專務口給也其有恒之醫亦或為流俗所化終失其"
+            },
+            {
+              "text": "恒不亦哀哉嗚呼為醫者守其天職有恒之心孳孳"
+            },
+            {
+              "text": "脩其道勉其術則終至遂大業亦何拘拘於流俗為"
+            },
+            {
+              "text": "乎湯誥云各守爾典以承天休學者其思之"
+            },
+            {
+              "text": "秦漢以降歷代之帝王暴政多欲而好長壽信仙方"
+            },
+            {
+              "text": "服石藥以促命期者不為不多矣獨明太祖有言曰"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "用兵猶用藥藥能去疾亦能致疾苟無事而動兵是"
+            },
+            {
+              "text": "猶妄以瞑眩之藥強進無病之人縱不損身亦損元"
+            },
+            {
+              "text": "氣此言當以為醫之模範矣夫兵者凶器也藥者毒"
+            },
+            {
+              "text": "材也素問曰病生於內其治宜毒藥又曰齊毒藥以"
+            },
+            {
+              "text": "攻其內鑱石鍼艾治其外又曰毒藥攻邪五穀為養"
+            },
+            {
+              "text": "是也蓋雖猛烈之劑用之於其證而不懼其瞑眩者"
+            },
+            {
+              "text": "良醫之機活也醫之懼瞑眩者猶將之無勝算也醫"
+            },
+            {
+              "text": "不知病將不知敵則懼心自生何能得立功哉雖然"
+            },
+            {
+              "text": "和之藥不適其病則不輕用之者良醫之謹恪也濫"
+            },
+            {
+              "text": "用毒藥以剋精氣者猶動干戈於無事之時不取敗"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "六",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：正文旁見返點。第六欄末二字「孳孳」形待覆核。第八欄末留白。 左面：第四欄「齊」及第五欄「鑱」依刊形錄。正文旁見返點。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/13",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00012.tif/full/full/0/default.jpg",
+      "label": "13",
+      "file": "13.jpg",
+      "sha256": "45c38071dc78421b63fd0a57c33a1e366cc74f669fa580adc2e17e84312805dd",
+      "bytes": 268219,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "者殆希矣後世醫者貴養補以為治療之本世俗亦"
+            },
+            {
+              "text": "有身無病而常服藥者吾不知其何故也醫固有不"
+            },
+            {
+              "text": "知藥有攻毒而無養補者是不智耳苟知之而賣弄"
+            },
+            {
+              "text": "其藥欺罔世人者實醫門之跖蹻也蓋庸醫見病攻"
+            },
+            {
+              "text": "內則精氣為所奪以至衰弱者乃用養補之藥欲以"
+            },
+            {
+              "text": "救其衰弱是以毒益剋內終促死期然猶且不悟以"
+            },
+            {
+              "text": "為養補之力未足焉若幸而毒自去病自治則必歸"
+            },
+            {
+              "text": "之養補之功益信益錯所謂明害者易知暗損者難"
+            },
+            {
+              "text": "知是也夫人之衰弱者病毒之所致而身自衰弱者"
+            },
+            {
+              "text": "未之有也然則養補末而攻毒本也忘本務末欲以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "立其功不亦難哉疾醫之道異于此審證之所發以"
+            },
+            {
+              "text": "攻毒之所在其病除則元氣自旺衰弱自復何用養"
+            },
+            {
+              "text": "補之為哉今夫況之草木有蠹蝕其本根則枝葉隨"
+            },
+            {
+              "text": "萎故先能蠲其蠹則繁茂可立而待苟不察其害之"
+            },
+            {
+              "text": "所從發而培養之以延日則枯槁不可救矣故養補"
+            },
+            {
+              "text": "迂遠之術延壽神仙之方此乃非醫之正道也"
+            },
+            {
+              "text": "苟子有言曰短綆不可以汲深井之泉此蓋論其常"
+            },
+            {
+              "text": "理也然而短亦有所長長亦有所短顧施其術如何"
+            },
+            {
+              "text": "耳醫之臨病投藥也有毒藥不能急攻其病毒而剌"
+            },
+            {
+              "text": "鍼之術能緩和其急迫驅逐其邪毒者此亦司命之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "七",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第四欄「跖蹻」形及第六欄「剋」待覆核。正文旁見返點。 左面：第四欄「蠲」、第七欄「苟子」（首字上形像艹）及第九欄「剌／刺」待覆核。末字承下幅。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/14",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00013.tif/full/full/0/default.jpg",
+      "label": "14",
+      "file": "14.jpg",
+      "sha256": "8141d71355795f5fdc20fb3b3663229a400c7b54b899a973da41e7771f7792ca",
+      "bytes": 270411,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "一端不可不知也靈樞曰夫善用鍼者取其疾也猶"
+            },
+            {
+              "text": "拔刺也猶雪污也如此則鍼之短亦善用之則有勝"
+            },
+            {
+              "text": "藥之長者矣若十二原補瀉迎隨井榮俞經合之說"
+            },
+            {
+              "text": "此五行家之空理而非其實也況其補虛之論誣罔"
+            },
+            {
+              "text": "亦甚矣夫鍼者唯瀉法一道而已其要在驅逐邪毒"
+            },
+            {
+              "text": "緩和急迫焉其刺法有二緩急是也驅逐邪毒者用"
+            },
+            {
+              "text": "急刺緩和急迫者用緩刺其術得之於手而會之於"
+            },
+            {
+              "text": "心試論其法譬猶氣息一呼吸有緩急之別也絪縕"
+            },
+            {
+              "text": "呴育之息徐呵之則自有溫潤之功散漫喝發之息"
+            },
+            {
+              "text": "急吹之則自有刺衝之力此可以知其區別焉傳曰"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "以結毒為腧此一言盡其蘊奧者也妄刺脉絡則動"
+            },
+            {
+              "text": "惕之勢使病者昏倒庸工宜愼其妄刺矣所謂十二"
+            },
+            {
+              "text": "經者虛誕不足信蓋疾病無常治術豈有常哉故有"
+            },
+            {
+              "text": "鍼刺於結毒之外以取其功者若眼球焮腫則鍼手"
+            },
+            {
+              "text": "之大指內側爪根齒牙疼痛則刺耳前小肉核起之"
+            },
+            {
+              "text": "尖心而焮腫疼痛頓止之類是也由此觀之鍼之中"
+            },
+            {
+              "text": "肯綮而奏功者豈一端哉我門別立法定格以授弟"
+            },
+            {
+              "text": "子此皆實地經驗而非五行傅會之空談也蓋志斯"
+            },
+            {
+              "text": "道精斯術則藉纖鍼軟弱之力以摧堅硬鑱石之毒"
+            },
+            {
+              "text": "不異于制梃以撻堅甲利兵也此固雖小技比之於"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "八",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "惕",
+          "candidates": [],
+          "note": "第二欄首字左心旁，右部待核，暫錄「惕」。第四及第六欄「焮」左火右欣。正文旁見返點。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "焮",
+          "candidates": [],
+          "note": "第二欄首字左心旁，右部待核，暫錄「惕」。第四及第六欄「焮」左火右欣。正文旁見返點。"
+        }
+      ],
+      "observations": "右面：第八欄末「絪縕」兩字的偏旁待覆核。正文旁見返點。 左面：第二欄首字左心旁，右部待核，暫錄「惕」。第四及第六欄「焮」左火右欣。正文旁見返點。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/15",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00014.tif/full/full/0/default.jpg",
+      "label": "15",
+      "file": "15.jpg",
+      "sha256": "82a5d9b6470d4ef836ba4fb63663f4e19412de6b45dc6eb75400b8e4e6ff92da",
+      "bytes": 264066,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "牛溲馬勃則其功貿然不侔亦可謂治療之一端功"
+            },
+            {
+              "text": "驗之捷徑矣然使其短能長者非有心會手得之妙"
+            },
+            {
+              "text": "則不能也"
+            },
+            {
+              "text": "呂覽曰見瓶水之冰而知天下之寒嘗一脟肉而知"
+            },
+            {
+              "text": "一鑊之味夫診病之機亦然方今診病之法不過按"
+            },
+            {
+              "text": "腹切脉問證耳余業醫有年矣診病者無慮不下數"
+            },
+            {
+              "text": "萬人目之所視耳之所聽鼻之所齅口之所味皆供"
+            },
+            {
+              "text": "之於察病之用久而恍然有神領意解者今在腹脉"
+            },
+            {
+              "text": "證之外更建顯微之候法以為治療之助實驗之於"
+            },
+            {
+              "text": "病態之變化死生之形狀而其診與治毫釐不差也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "然而其法有不可筆記者有不可口授者此非力行"
+            },
+            {
+              "text": "積累之久孰能會其妙哉蓋未見瓶水而知寒者因"
+            },
+            {
+              "text": "凜冽之勢未嘗脟肉而知味者由芬芳之氣也故聞"
+            },
+            {
+              "text": "患者之氣臭以定其病位者蓋什七八不待腹脉證"
+            },
+            {
+              "text": "之三法而足以察病毒之淺深死生之安危矣每一"
+            },
+            {
+              "text": "病一疾推類比物而究其理之所以然則豈有不可"
+            },
+            {
+              "text": "知者乎哉然至臭氣之峻烈則庸工亦能知之若傷"
+            },
+            {
+              "text": "寒之熱臭勞瘵之汗臭脚氣之息臭翻胃之噫氣肺"
+            },
+            {
+              "text": "癰之膿臭痢疾之便臭吐血之血臭崩漏之瘀臭之"
+            },
+            {
+              "text": "類是也此特其顯然易知者耳非得於心之深安能"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "九",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "脟",
+          "candidates": [],
+          "note": "第三欄「脟」可與右面同字比讀。第八欄「瘵」形待核，脚為原刻字形。正文旁見返點。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "瘵",
+          "candidates": [],
+          "note": "第三欄「脟」可與右面同字比讀。第八欄「瘵」形待核，脚為原刻字形。正文旁見返點。"
+        }
+      ],
+      "observations": "右面：第三欄以下留白，第四欄起新段。第一欄「貿然」、第四欄「脟」及第七欄「齅」待覆核。正文旁見返點。 左面：第三欄「脟」可與右面同字比讀。第八欄「瘵」形待核，脚為原刻字形。正文旁見返點。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/16",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00015.tif/full/full/0/default.jpg",
+      "label": "16",
+      "file": "16.jpg",
+      "sha256": "b999c83b5500bc803d2f611e6cfadd339b43143622ba1aac6e98b166f3da1eab",
+      "bytes": 270557,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "得察其幾微乎初學輕俊之徒闇揣冥行有見卧石"
+            },
+            {
+              "text": "以為伏虎之弊學者誠能用心於斯則亦診病之一"
+            },
+            {
+              "text": "術也然此非為神識超卓之人言之也但余區區老"
+            },
+            {
+              "text": "婆心一術一法苟有益於治療者不能箝口也焉"
+            },
+            {
+              "text": "明有御史阿事萬安安陽痿其人具藥洗之世稱之"
+            },
+            {
+              "text": "洗馬御史有一醫於斯甚相類其人少有才佞辨敏"
+            },
+            {
+              "text": "給威儀雄偉頗有大家之風嘗自謂泥書則暗於變"
+            },
+            {
+              "text": "通信古則背於時機一尺之面已異其形方寸之心"
+            },
+            {
+              "text": "豈同其趣何食糟粕而後快之由是聖賢之書古醫"
+            },
+            {
+              "text": "之方束之高閣而不顧几上唯置俗方一冊遇病者"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "輒先叩其證而搜其病門之方曰方證相對□其藥"
+            },
+            {
+              "text": "以與焉粗診輕施晏然無所思慮而祁寒暑雨候權"
+            },
+            {
+              "text": "貴之門未嘗一日怠懈善揣人意巧為媚悅鳶肩羔"
+            },
+            {
+              "text": "膝不憚其勞臨病調劑惟要適病者之口而不計其"
+            },
+            {
+              "text": "當否拂髭塵而售其媚吮癰膿以渴其欵曾不患識"
+            },
+            {
+              "text": "者之指彈徒聳世人之耳目而醜不知其耻此醫之"
+            },
+            {
+              "text": "鄉原而無恒者也世人以其拂髭塵稱塵尾醫又以"
+            },
+            {
+              "text": "其吮癰膿名曰黃鼬醫云此固不足掛齒牙而筆之"
+            },
+            {
+              "text": "者欲使二三子知所警戒也蓋醫之所以勉勵讀書"
+            },
+            {
+              "text": "者將以有所大用也及其一旦學熟術精則稽古徵"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "渴",
+          "candidates": [],
+          "note": "第一欄第18字疑為「裒」待核。第五欄「渴」和第六欄「聳」「醜」待覆核。第六欄「耻」依刊形。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "聳",
+          "candidates": [],
+          "note": "第一欄第18字疑為「裒」待核。第五欄「渴」和第六欄「聳」「醜」待覆核。第六欄「耻」依刊形。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "醜",
+          "candidates": [],
+          "note": "第一欄第18字疑為「裒」待核。第五欄「渴」和第六欄「聳」「醜」待覆核。第六欄「耻」依刊形。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "耻",
+          "candidates": [],
+          "note": "第一欄第18字疑為「裒」待核。第五欄「渴」和第六欄「聳」「醜」待覆核。第六欄「耻」依刊形。"
+        }
+      ],
+      "observations": "右面：第一欄「卧」依刊形。第四欄「箝」形待覆核。第五欄新段起首。 左面：第一欄第18字疑為「裒」待核。第五欄「渴」和第六欄「聳」「醜」待覆核。第六欄「耻」依刊形。"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/17",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00016.tif/full/full/0/default.jpg",
+      "label": "17",
+      "file": "17.jpg",
+      "sha256": "4c51192839960926abc46af3a0a74f8478e7afe626602cadd94954adc4f8f043",
+      "bytes": 267693,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "今解惑決疑內足以制誣罔之奸外可以免利欲之"
+            },
+            {
+              "text": "坑志氣勇往卓然以濟世自任則所謂跨天下而無"
+            },
+            {
+              "text": "慚者歟苟子有言曰遇不遇者時也賢不肖者材也"
+            },
+            {
+              "text": "與不肖者之遇其時有浮雲之富貴不如賢者之不"
+            },
+            {
+              "text": "遇時而簞瓢是樂也"
+            },
+            {
+              "text": "昔者太卜詒齊景公曰臣能動地公問晏子晏子見"
+            },
+            {
+              "text": "大卜曰昔吾見釣星在四心之間地其動乎大卜大"
+            },
+            {
+              "text": "懼見公曰臣非能動地地固將動也嗚呼世醫之技"
+            },
+            {
+              "text": "類乎斯者多矣要之言行不相顧之所致也而取容"
+            },
+            {
+              "text": "悅於世者有二道焉一則付託孔孟之學穿鑿岐黃"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "之方其論病因也究五行生剋之理其辨藥劑也盡"
+            },
+            {
+              "text": "相畏相反之法高論確言喋喋可聽然而觀其實則"
+            },
+            {
+              "text": "跋胡疐尾行不能掩其言也今有病毒攻內顯□其"
+            },
+            {
+              "text": "外之證屬諸虛損惟補之務譬猶以指測河以戈舂"
+            },
+            {
+              "text": "黍欲取其功亦難矣此不知毒之使然也荏苒延日"
+            },
+            {
+              "text": "變證百出始知其誤治不可救而尚遁辭佞言飾非"
+            },
+            {
+              "text": "掩過徒說死期顛末之狀欲以取信於人一合其所"
+            },
+            {
+              "text": "說則託之於天命醜然不省矣巧偽不如拙誠信哉"
+            },
+            {
+              "text": "一則無學術不師古腹笥枵然惟俚言巷語諂媚泉"
+            },
+            {
+              "text": "涌務合人意而其言與其術圓蓋方底齟齬不合其"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十一",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "疐",
+          "candidates": [],
+          "note": "第三欄第19字未定，形近「顉／頰」，待辨；「疐」待覆核。第九欄「枵」與末欄「底」形待核。「涌」所見為水旁。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "枵",
+          "candidates": [],
+          "note": "第三欄第19字未定，形近「顉／頰」，待辨；「疐」待覆核。第九欄「枵」與末欄「底」形待核。「涌」所見為水旁。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "底",
+          "candidates": [],
+          "note": "第三欄第19字未定，形近「顉／頰」，待辨；「疐」待覆核。第九欄「枵」與末欄「底」形待核。「涌」所見為水旁。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "涌",
+          "candidates": [],
+          "note": "第三欄第19字未定，形近「顉／頰」，待辨；「疐」待覆核。第九欄「枵」與末欄「底」形待核。「涌」所見為水旁。"
+        }
+      ],
+      "observations": "右面：第三欄原刻「苟子」首字下似口，待覆核。第五欄下留白，第六欄起新段。第六七欄「太卜／大卜」據可見筆形原樣分錄，待覆核。 左面：第三欄第19字未定，形近「顉／頰」，待辨；「疐」待覆核。第九欄「枵」與末欄「底」形待核。「涌」所見為水旁。"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/18",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00017.tif/full/full/0/default.jpg",
+      "label": "18",
+      "file": "18.jpg",
+      "sha256": "e1505d35ede2ed322615145fb301fac131d5d7af86529a7dcb593d852e45fbf7",
+      "bytes": 273212,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "用藥蟬連曠日無驗若患者有倦怠之色則與藥力"
+            },
+            {
+              "text": "使然之劑曰服斯藥則大便通黑服斯劑則口渴欲"
+            },
+            {
+              "text": "飲此皆毒欲去之徵也欺罔百出強售其技所謂今"
+            },
+            {
+              "text": "愚者詐者信哉若醫中有晏子以質之則彼何有所"
+            },
+            {
+              "text": "逃罪乎嘗有一病人吐利腹痛手足厥冷煩躁欲死"
+            },
+            {
+              "text": "與藥汁則益嘔逆煩悶衆醫束手百治無功親戚相"
+            },
+            {
+              "text": "聚憂悒懮鬱不知所為有一大醫診之曰是寒病也"
+            },
+            {
+              "text": "急進湯液其嘔忽止始歠稀粥舉家大喜待醫甚腆"
+            },
+            {
+              "text": "醫亦昂然有自得之色少焉又與前方則嘔吐煩悶"
+            },
+            {
+              "text": "如故病者曰前藥如飲白湯後藥不堪苦煩衆皆怪"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "之因檢之則嚮一婢急忙煎煮誤撒藥于爐中伴進"
+            },
+            {
+              "text": "白湯云醫甚愧頻與別方不應終取大敗其禱昧不"
+            },
+            {
+              "text": "知之甚固無足論者世醫之所為多類此亦可以為"
+            },
+            {
+              "text": "學者之警戒"
+            },
+            {
+              "text": "夫社鼠之害熏之則燒其木灌之則敗其塗所以不"
+            },
+            {
+              "text": "能如之何者以託社也晏子以此比君側之佞人蓋"
+            },
+            {
+              "text": "醫亦有社鼠其學膚淺其術陋劣然或夾官貴或恃"
+            },
+            {
+              "text": "年高或藉富彊以飾其拙者皆是也蓋醫之所以當"
+            },
+            {
+              "text": "務者在學精術巧使人不斃於非命耳何有於彼三"
+            },
+            {
+              "text": "者爵也齒也富也皆有命非我之所必也學業也治"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十二",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "禱",
+          "candidates": [],
+          "note": "第二欄「禱」左旁待核。第四欄下留白，第五欄起新段。正文旁見返點。"
+        }
+      ],
+      "observations": "右面：第七欄「悒懮鬱」、第八欄「歠」「腆」及第十欄末「怪」待覆核。正文旁見返點。 左面：第二欄「禱」左旁待核。第四欄下留白，第五欄起新段。正文旁見返點。"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/19",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00018.tif/full/full/0/default.jpg",
+      "label": "19",
+      "file": "19.jpg",
+      "sha256": "5777649cc4c5d537013ab979cc00d068e19237f5961aeeebb6d049d89380eedf",
+      "bytes": 263975,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "術也其務在我焉剋心劌精以積漸磨之功則必盡"
+            },
+            {
+              "text": "其蘊自古有識之士多貧而愚蠢之人多富今也草"
+            },
+            {
+              "text": "莽之醫抱和玉而泣血者亦不為尠矣不學無識技"
+            },
+            {
+              "text": "亦疎漏昂然華服乘輿出入於王侯之門者亦多矣"
+            },
+            {
+              "text": "所謂魚目夜光碔砆美璞之相溷者歟可不慨歎哉"
+            },
+            {
+              "text": "余每見醫生坦夷溫和不露圭角而問其技之所長"
+            },
+            {
+              "text": "博學宏才出於意表者或有之雖偏見固陋之醫未"
+            },
+            {
+              "text": "必無一二可取也故芻蕘之言亦足以充濟世之用"
+            },
+            {
+              "text": "矣苟不然自視尊大假鬼面以嚇後進則亦醫門之"
+            },
+            {
+              "text": "社鼠耳不啻無益亦將自畫而不進道此學者之大"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "患也"
+            },
+            {
+              "text": "昔者有酤酒者器潔幟高而酒酸不售者以門有猘"
+            },
+            {
+              "text": "狗也今之業醫者朱門堊壁藥籠鏤金而藥生醭病"
+            },
+            {
+              "text": "不治者何也蓋其心得正則所為者各盡其善焉其"
+            },
+            {
+              "text": "心苟不正則嫉賢貪利此乃心之猘狗也既有猘狗"
+            },
+            {
+              "text": "則意志橫發思慮壅塞而不能盡其能也嫉賢則無"
+            },
+            {
+              "text": "人益之貪利則陷於卑辱竟失醫之所以為醫焉韓"
+            },
+            {
+              "text": "子有言曰醫善吮人之瘍含人之血非骨肉之親利"
+            },
+            {
+              "text": "所加也此言可謂善中貪醫之膏肓矣今也為猘狗"
+            },
+            {
+              "text": "役其身者倀倀乎迷利走名醜然不怍何其無行之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十三",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "醭",
+          "candidates": [],
+          "note": "第一欄下留白，第二欄起新段。第三欄「醭」字待核。州郡舊字按印字讀。正文旁見返點。"
+        }
+      ],
+      "observations": "右面：第三欄「尠」、第五欄「碔砆」「溷」及第六欄「夷」待覆核。正文旁見返點。 左面：第一欄下留白，第二欄起新段。第三欄「醭」字待核。州郡舊字按印字讀。正文旁見返點。"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/20",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00019.tif/full/full/0/default.jpg",
+      "label": "20",
+      "file": "20.jpg",
+      "sha256": "fe942256c75f6cfc6797b879b2afeccfce970f1b4a29bbbb9aee75c1cc11b7df",
+      "bytes": 260713,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "甚也故能驅其猘狗則心得正而其所行必有恒矣"
+            },
+            {
+              "text": "蓋驅猘狗有術博讀書而大其膽精窮理以小其心"
+            },
+            {
+              "text": "誠其所發愼其所行則無卑陋貪欲之病而猘狗自"
+            },
+            {
+              "text": "去然而以濟急救危為己任使人無誤治之譏則其"
+            },
+            {
+              "text": "術也熟其功也成而後可謂知醫之所以為醫矣"
+            },
+            {
+              "text": "西洋家詰吾門生曰傷寒論云身疼腰痛骨節疼痛"
+            },
+            {
+              "text": "云云身疼腰痛者實驗有之骨節疼痛者屬於空談"
+            },
+            {
+              "text": "何則骨者無有知覺故爪牙之類剪之不痛此可以"
+            },
+            {
+              "text": "證骨節疼痛之鹵莽信其言者其鹵莽亦可笑門生"
+            },
+            {
+              "text": "不能答問於余余笑曰嗚呼愚哉西洋家之說傷寒"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "論也若目無一丁字淺見膚識妄搜疵瑕余輩忍饑"
+            },
+            {
+              "text": "吹齏欲以發其蘊猶恐不能究其深意之所在焉夫"
+            },
+            {
+              "text": "讀傷寒論之法猶如詩之比物易之象物其文辭簡"
+            },
+            {
+              "text": "古意味含蓄句外有餘意字外有餘義且經後人之"
+            },
+            {
+              "text": "手原文有攙入傳寫有謬誤烏焉成馬者多矣蓋非"
+            },
+            {
+              "text": "卓識之人則不能得其詳審也所謂身疼腰痛骨節"
+            },
+            {
+              "text": "疼痛者所以區別感邪之淺深輕重也身疼腰痛者"
+            },
+            {
+              "text": "以示感邪之淺且輕骨節疼痛者以示感邪之深且"
+            },
+            {
+              "text": "重耳無以辭害其意可也是例論中往往有之曰病"
+            },
+            {
+              "text": "人身大熱反欲得近衣者熱在皮膚寒在骨髓也皮"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉碼",
+              "text": "十四",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第五欄末留白，第六欄起西洋家與書中門生的問答。第九欄兩個「鹵」的字形待覆核。正文旁見返點。 左面：第一欄末「饑」、第二欄「齏」與第五欄「攙」待覆核。末欄「皮」接下幅。正文旁見返點。"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/21",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00020.tif/full/full/0/default.jpg",
+      "label": "21",
+      "file": "21.jpg",
+      "sha256": "344600dba0fea6e572970370f068e3dae24a34ca75943357f88be46a46311bb6",
+      "bytes": 260039,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "膚者斥表骨髓者斥裏論感邪之深淺亦然彼輩徒泥"
+            },
+            {
+              "text": "文辭而不知其義夫坎井之蛙何語東海之事余試"
+            },
+            {
+              "text": "傚西洋家之強辨以論之蓋骨也爪牙也根著於生"
+            },
+            {
+              "text": "活體則不可謂無知覺焉指肉齦肉纏其爪牙則生"
+            },
+            {
+              "text": "靈之活機相通非死物也況骨之在肉中其有知覺"
+            },
+            {
+              "text": "亦何疑焉但爪牙鬚髮之在肉外者其所以爲知覺"
+            },
+            {
+              "text": "者不相及也今也試噀水齒必先覺冷則不可謂無"
+            },
+            {
+              "text": "知覺也齒齦之際痛者謂之齒痛而不謂之齦痛況"
+            },
+            {
+              "text": "骨之在肉中者生靈之活機相通則決不可謂無知"
+            },
+            {
+              "text": "覺也所謂歷節風者巡歷關節而痛者是也然此非"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "爲大方家說之聊以破西洋家陋愚之一夢爾"
+            },
+            {
+              "text": "一病人大便不通十餘日然非可下之證故使門生"
+            },
+            {
+              "text": "將水銃灌藥汁於糞門以取快利西洋家觀之大笑"
+            },
+            {
+              "text": "曰疾醫家至其術之窮則陰用吾黨灌腸法而陽罵"
+            },
+            {
+              "text": "吾黨治法動輒取證於古書以飾其遁辭史公之斯"
+            },
+            {
+              "text": "曰我不忍以夫子之道反害夫子射者猶學其道則"
+            },
+            {
+              "text": "能知其恩義用我之術而誚我之法者何也余聞之"
+            },
+            {
+              "text": "曰韓氏有言曰聖人無常師道之所存師之所存也"
+            },
+            {
+              "text": "余常尊信是語夫苟有志於濟世者何立邊幅於彼"
+            },
+            {
+              "text": "我之際乎且疾醫之熄也約二千有餘年矣今也雖"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "十五",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "傚",
+          "candidates": [],
+          "note": "右面題名近外緣，左右半略有裁邊。第3欄「傚」的字形待核，左有人旁。第7欄作「噀」，右旁上似二巳、下共。書有返點，未逐符錄。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "噀",
+          "candidates": [],
+          "note": "右面題名近外緣，左右半略有裁邊。第3欄「傚」的字形待核，左有人旁。第7欄作「噀」，右旁上似二巳、下共。書有返點，未逐符錄。"
+        }
+      ],
+      "observations": "右面：右面題名近外緣，左右半略有裁邊。第3欄「傚」的字形待核，左有人旁。第7欄作「噀」，右旁上似二巳、下共。書有返點，未逐符錄。 左面：第6欄「射者」照錄。第7欄「誚」左言右肖，與第26幅右頁第7欄同形。第10欄「熄」右旁可見自與心。版心外緣有其他紙疊影。"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/22",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00021.tif/full/full/0/default.jpg",
+      "label": "22",
+      "file": "22.jpg",
+      "sha256": "73163c6728252320fa51c3525e4001dcda562af3cb589131ac5497170e7e6d38",
+      "bytes": 259151,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "卓識者興盡其道之蘊奧者蓋鮮矣故臨病施治之"
+            },
+            {
+              "text": "法恊疾醫之古法律則張氏論中所未載者亦用之"
+            },
+            {
+              "text": "可也況用水銃取下之法張氏論中既有之其法曰"
+            },
+            {
+              "text": "大猪膽一枚瀉汁和酢少許以灌穀道中夫灌藥具"
+            },
+            {
+              "text": "非水銃而何也唯謂灌穀道中而不言其器者畧之"
+            },
+            {
+              "text": "也詩曰肅肅宵行抱衾與裯鄭箋釋之曰此諸妾肅"
+            },
+            {
+              "text": "肅然而行或早或夜在於君所以次序進御洪容齋"
+            },
+            {
+              "text": "非之曰裯牀帳也諸妾夜行抱被與牀帳非一己之"
+            },
+            {
+              "text": "力所能致可謂陋矣此詩本是詠使者遠適夙夜征"
+            },
+            {
+              "text": "行不敢慢君命之意也此以辭害意者也若果然則"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "使者亦何自抱衾與裯乎所謂固哉高叟之爲詩乃"
+            },
+            {
+              "text": "是也先儒猶有此誤解況西洋家不知讀書徒以穿"
+            },
+            {
+              "text": "鑿爲理故觀吾門用水銃者以爲剽竊其術孟子曰"
+            },
+            {
+              "text": "子誠齊人也知管仲晏子而已溺西洋者安能知大"
+            },
+            {
+              "text": "道之在天地間哉"
+            },
+            {
+              "text": "戰國策云蚌方出暴而鷸啄其肉蚌合箝其啄鷸曰"
+            },
+            {
+              "text": "今日不雨明日不雨必有死蚌蚌曰今日不出明日"
+            },
+            {
+              "text": "不出必有死鷸兩爭不釋漁者并擒之鶴氏嘗作醫"
+            },
+            {
+              "text": "斷鞭答五行醫之弊而顯明疾醫之法畑氏著書辨"
+            },
+            {
+              "text": "之命曰斥醫斷專主張五行之說以疾醫之法爲異"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "十六",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "恊",
+          "candidates": [],
+          "note": "第2欄「恊」左心右三力。第5欄「畧」原樣上田下各。第6及8欄「裯」照字形，8欄「牀」二見，待核。題名靠紙口。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "畧",
+          "candidates": [],
+          "note": "第2欄「恊」左心右三力。第5欄「畧」原樣上田下各。第6及8欄「裯」照字形，8欄「牀」二見，待核。題名靠紙口。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "裯",
+          "candidates": [],
+          "note": "第2欄「恊」左心右三力。第5欄「畧」原樣上田下各。第6及8欄「裯」照字形，8欄「牀」二見，待核。題名靠紙口。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "牀",
+          "candidates": [],
+          "note": "第2欄「恊」左心右三力。第5欄「畧」原樣上田下各。第6及8欄「裯」照字形，8欄「牀」二見，待核。題名靠紙口。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "箝",
+          "candidates": [],
+          "note": "第6欄起另段，欄首不退。第6欄「箝」原見竹頭。第9欄「鞭答」第二字上竹下合，與語義上可能的笞字並存疑；「畑」左火右田。欄間少量淡褐斑。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "鞭答",
+          "candidates": [],
+          "note": "第6欄起另段，欄首不退。第6欄「箝」原見竹頭。第9欄「鞭答」第二字上竹下合，與語義上可能的笞字並存疑；「畑」左火右田。欄間少量淡褐斑。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "畑",
+          "candidates": [],
+          "note": "第6欄起另段，欄首不退。第6欄「箝」原見竹頭。第9欄「鞭答」第二字上竹下合，與語義上可能的笞字並存疑；「畑」左火右田。欄間少量淡褐斑。"
+        }
+      ],
+      "observations": "右面：第2欄「恊」左心右三力。第5欄「畧」原樣上田下各。第6及8欄「裯」照字形，8欄「牀」二見，待核。題名靠紙口。 左面：第6欄起另段，欄首不退。第6欄「箝」原見竹頭。第9欄「鞭答」第二字上竹下合，與語義上可能的笞字並存疑；「畑」左火右田。欄間少量淡褐斑。"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/23",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00022.tif/full/full/0/default.jpg",
+      "label": "23",
+      "file": "23.jpg",
+      "sha256": "825f48c7b9779a9615fe7d19cd436d3c9c7435eeab2bfde9d49c021c3884aac0",
+      "bytes": 259951,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "端田氏尤袒於鶴氏更欲排擠斥醫斷論破其所斥"
+            },
+            {
+              "text": "者互褒其所喜而訾其所惡一得一失議論紛紛孰"
+            },
+            {
+              "text": "知其是非哉若復繼畑氏繼田氏轉輾著書以人爲"
+            },
+            {
+              "text": "非以己爲是則是非爭訟循環不窮於是坐其環中"
+            },
+            {
+              "text": "能審其是非以得其真者此之謂君子醫蓋是非者"
+            },
+            {
+              "text": "鷸蚌之爭也坐環中而得其真者漁者也夫非人者"
+            },
+            {
+              "text": "人必非己於是是非蜂起得失雲興焉初使鶴氏能"
+            },
+            {
+              "text": "承東洞翁之意以述疾醫治療之術莫極觝排夫五"
+            },
+            {
+              "text": "行之說則其徒從而信之學以善之者必多矣縱令"
+            },
+            {
+              "text": "不信其道不喜其術亦何非其說乎然而至於扼腕"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "切齒以譏訕爲急以排擊爲務紛拏汹汹終使人不"
+            },
+            {
+              "text": "知其所適從此君子醫之所不取也或曰君子醫如"
+            },
+            {
+              "text": "何蓋醫有君子小人猶儒有君子小人也所謂君子"
+            },
+            {
+              "text": "醫者明義理察事實慮病必當施治必功乃信窮達"
+            },
+            {
+              "text": "乎天不求容悅於人恬然韜晦務其在己者而畧其"
+            },
+            {
+              "text": "在人者小人醫反之矣若使醫技工拙判然明白如"
+            },
+            {
+              "text": "博棊之輸贏則未嘗有斃於小人醫之手者也然非"
+            },
+            {
+              "text": "具眼者安能辨之"
+            },
+            {
+              "text": "傷寒論太陽下篇大黃黃連瀉心湯條突然唯舉心"
+            },
+            {
+              "text": "下痞一證似不具備者矣先輩或云脫冒首或云有"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "十七",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "尤袒",
+          "candidates": [],
+          "note": "第1欄「尤袒」與第2欄「互褒」待核；褒上衣下近保。第3欄「畑氏」「繼田氏」如圖。第8欄「觝」左似角、右似氏下附點，待核。第10欄「扼」左手旁，右部待核。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "互褒",
+          "candidates": [],
+          "note": "第1欄「尤袒」與第2欄「互褒」待核；褒上衣下近保。第3欄「畑氏」「繼田氏」如圖。第8欄「觝」左似角、右似氏下附點，待核。第10欄「扼」左手旁，右部待核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "畑氏",
+          "candidates": [],
+          "note": "第1欄「尤袒」與第2欄「互褒」待核；褒上衣下近保。第3欄「畑氏」「繼田氏」如圖。第8欄「觝」左似角、右似氏下附點，待核。第10欄「扼」左手旁，右部待核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "繼田氏",
+          "candidates": [],
+          "note": "第1欄「尤袒」與第2欄「互褒」待核；褒上衣下近保。第3欄「畑氏」「繼田氏」如圖。第8欄「觝」左似角、右似氏下附點，待核。第10欄「扼」左手旁，右部待核。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "觝",
+          "candidates": [],
+          "note": "第1欄「尤袒」與第2欄「互褒」待核；褒上衣下近保。第3欄「畑氏」「繼田氏」如圖。第8欄「觝」左似角、右似氏下附點，待核。第10欄「扼」左手旁，右部待核。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "扼",
+          "candidates": [],
+          "note": "第1欄「尤袒」與第2欄「互褒」待核；褒上衣下近保。第3欄「畑氏」「繼田氏」如圖。第8欄「觝」左似角、右似氏下附點，待核。第10欄「扼」左手旁，右部待核。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "紛拏汹汹",
+          "candidates": [],
+          "note": "第1欄「紛拏汹汹」保留可見字形。第7欄「博棊」待核。第8欄末後版面留白，第9欄另起。版心受疊頁影響。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "博棊",
+          "candidates": [],
+          "note": "第1欄「紛拏汹汹」保留可見字形。第7欄「博棊」待核。第8欄末後版面留白，第9欄另起。版心受疊頁影響。"
+        }
+      ],
+      "observations": "右面：第1欄「尤袒」與第2欄「互褒」待核；褒上衣下近保。第3欄「畑氏」「繼田氏」如圖。第8欄「觝」左似角、右似氏下附點，待核。第10欄「扼」左手旁，右部待核。 左面：第1欄「紛拏汹汹」保留可見字形。第7欄「博棊」待核。第8欄末後版面留白，第9欄另起。版心受疊頁影響。"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/24",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00023.tif/full/full/0/default.jpg",
+      "label": "24",
+      "file": "24.jpg",
+      "sha256": "8581b77d957eeb1262e6e1964492aed2782564d0dfa5758e3bb229fdfc946054",
+      "bytes": 258694,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "脫證未有得穩當之說者余亦蓄疑有年矣今始得"
+            },
+            {
+              "text": "氷鮮蓋瀉心湯條與前條一章而後人截斷之以爲"
+            },
+            {
+              "text": "二條耳移瀉心湯證於前章太陽病醫發汗遂發熱"
+            },
+            {
+              "text": "惡寒因復下之之下合以爲一章則其證始備其義"
+            },
+            {
+              "text": "始明下二條承之以論其變判然可知矣心下痞表"
+            },
+            {
+              "text": "裡俱虛以下四十三字所謂狗尾續貂者而後人之"
+            },
+            {
+              "text": "攙入也宜刪去焉夫太陽病發汗不解因有發熱惡"
+            },
+            {
+              "text": "寒之證則當再發汗以驅除表邪而醫因誤下之其"
+            },
+            {
+              "text": "邪遂陷于心下而成痞證此所以與瀉心湯也次條"
+            },
+            {
+              "text": "附子瀉心湯此又承上章瀉心湯而論之瀉心湯條"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "初有惡寒下之惡寒既去而再發故曰復惡寒其次"
+            },
+            {
+              "text": "條五苓散條云本以下之故心下痞與瀉心湯云云"
+            },
+            {
+              "text": "是亦承前瀉心湯條而論之然則瀉心湯痞證此因"
+            },
+            {
+              "text": "誤下之所致也故瀉心湯證連續於上章因復下之之"
+            },
+            {
+              "text": "下者可以證矣此但論瀉心湯證之大綱耳至其小"
+            },
+            {
+              "text": "綱之議論詳於吾所著復古傷寒論"
+            },
+            {
+              "text": "韓退之答張籍書云古人得其時行其道則無所爲"
+            },
+            {
+              "text": "書爲書者皆所爲不得行乎今而行乎後者也夫書"
+            },
+            {
+              "text": "者載道者也道行於時則何用之爲哉昔越人之爲"
+            },
+            {
+              "text": "醫也於邯鄲也爲帶下醫過洛陽也爲耳目醫入咸"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "十八",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "氷鮮",
+          "candidates": [],
+          "note": "第2欄「氷鮮」第一字見水旁點，第二字左右部待核。第6欄「裡」依圖左衣右里。第7欄首字為提手旁，候「攙」。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "裡",
+          "candidates": [],
+          "note": "第2欄「氷鮮」第一字見水旁點，第二字左右部待核。第6欄「裡」依圖左衣右里。第7欄首字為提手旁，候「攙」。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "攙",
+          "candidates": [],
+          "note": "第2欄「氷鮮」第一字見水旁點，第二字左右部待核。第6欄「裡」依圖左衣右里。第7欄首字為提手旁，候「攙」。"
+        }
+      ],
+      "observations": "右面：第2欄「氷鮮」第一字見水旁點，第二字左右部待核。第6欄「裡」依圖左衣右里。第7欄首字為提手旁，候「攙」。 左面：第6欄下段留白，第7欄另起。末欄末字「咸」跨到下幅「陽」。"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/25",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00024.tif/full/full/0/default.jpg",
+      "label": "25",
+      "file": "25.jpg",
+      "sha256": "747da782f9b87a92c35bf2cc6894876f70e45a213180255fd2af52ca974315be",
+      "bytes": 252582,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "陽也爲小兒醫孜孜以濟世爲心故其突不黔其席"
+            },
+            {
+              "text": "不暖斃而後止其方法無一編傳後世者而起死肉"
+            },
+            {
+              "text": "骨之術於傳僅見其一斑耳及長沙氏出憂其方術"
+            },
+            {
+              "text": "之泯滅慨然搜古訓索衆方筆之於書以建古疾醫"
+            },
+            {
+              "text": "之學而其道愈遠愈盛也其功業之赫著於無窮比"
+            },
+            {
+              "text": "之越人不亦偉哉但恨史闕其傳後學生異議而王"
+            },
+            {
+              "text": "叔和攙入私說紊亂無統玉石混淆惟卓識具眼者"
+            },
+            {
+              "text": "能辨之蓋兩漢以前未聞有醫書西漢平帝紀始載"
+            },
+            {
+              "text": "本草之名此指所謂神農本草三卷而言之歟然神"
+            },
+            {
+              "text": "農安得有書蓋出於好事者之僞撰無疑矣今世所"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "傳之書與平帝紀所載者異而別手之贋作固不足"
+            },
+            {
+              "text": "信據也淮南子曰神農嘗百草一日中七十毒此亦"
+            },
+            {
+              "text": "記其傳聞爾醫者不深考動輒以本草漫名于藥錄"
+            },
+            {
+              "text": "者蓋昉于此也夫藥何止百草哉周禮疾醫有五藥"
+            },
+            {
+              "text": "之名草木蟲石穀是也宋掌禹錫有言曰上世未著"
+            },
+            {
+              "text": "文字師學相傳謂之本草據此則本草之義非藥草"
+            },
+            {
+              "text": "之謂也蓋草者創也易屯卦云天造草昧疏云言天"
+            },
+            {
+              "text": "造萬物于草創之始是也夫爲一家之說者皆創業"
+            },
+            {
+              "text": "垂統而爲可繼也故本先師之所創以傳後學謂之"
+            },
+            {
+              "text": "本草也然此皆一家之說而各記其所施用方術藥"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "十九",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "於傳",
+          "candidates": [],
+          "note": "第1、2欄「突不黔其席不暖」跨欄。第3欄「於傳」、第7欄「紊」、第9欄「歟」待核。右側版心靠紙口。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "紊",
+          "candidates": [],
+          "note": "第1、2欄「突不黔其席不暖」跨欄。第3欄「於傳」、第7欄「紊」、第9欄「歟」待核。右側版心靠紙口。"
+        },
+        {
+          "side": "right",
+          "column": 9,
+          "context": "歟",
+          "candidates": [],
+          "note": "第1、2欄「突不黔其席不暖」跨欄。第3欄「於傳」、第7欄「紊」、第9欄「歟」待核。右側版心靠紙口。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "贋",
+          "candidates": [],
+          "note": "第1欄「贋」字底部貝形；第6欄「師學」照圖；第7欄「疏」字左部待核。末欄下段有淡灰痕，字可辨。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "師學",
+          "candidates": [],
+          "note": "第1欄「贋」字底部貝形；第6欄「師學」照圖；第7欄「疏」字左部待核。末欄下段有淡灰痕，字可辨。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "疏",
+          "candidates": [],
+          "note": "第1欄「贋」字底部貝形；第6欄「師學」照圖；第7欄「疏」字左部待核。末欄下段有淡灰痕，字可辨。"
+        }
+      ],
+      "observations": "右面：第1、2欄「突不黔其席不暖」跨欄。第3欄「於傳」、第7欄「紊」、第9欄「歟」待核。右側版心靠紙口。 左面：第1欄「贋」字底部貝形；第6欄「師學」照圖；第7欄「疏」字左部待核。末欄下段有淡灰痕，字可辨。"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00025.tif/full/full/0/default.jpg",
+      "label": "26",
+      "file": "26.jpg",
+      "sha256": "38077cfa40e0f6679d69308a4aa5cab8d2634413f92bb9d923f3dae895e9a86e",
+      "bytes": 251778,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "性之功驗形狀之真贋或所產之地或製造之法以"
+            },
+            {
+              "text": "授弟子而已非鴻著大作之可爲萬世模範也醫之"
+            },
+            {
+              "text": "正道雖僅存乎長沙氏之書此亦殘缺錯亂有宮無"
+            },
+            {
+              "text": "商有角無徵不能慊人心故欲五聲兼備者博涉獵"
+            },
+            {
+              "text": "天下之書棄瓦礫拾美玉以合長沙氏之旨而驗之"
+            },
+            {
+              "text": "於實地有裨益于斯道者此之謂真疾醫矣唯拘泥"
+            },
+            {
+              "text": "傷寒金匱者未能免偏狹之誚也"
+            },
+            {
+              "text": "前漢孝武帝曰天下豈有仙人盡妖妄耳節飲食服"
+            },
+            {
+              "text": "藥差可少病而已此言也不獨帝王去邪修德醫生"
+            },
+            {
+              "text": "星士售伎鬻奸之徒亦當以爲龜鑑矣一酒肆某年"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "可四十久罹病其證寒熱往來胸動心煩肌膚微腫"
+            },
+            {
+              "text": "四肢倦飢飲啖二便皆如平日及其稍發則四肢頑"
+            },
+            {
+              "text": "麻不能起語言謇澁不能言至其暴發也遺尿失溲"
+            },
+            {
+              "text": "不省人事或半日或一日而蘇其狀如鬼祟醫以爲"
+            },
+            {
+              "text": "陰虛火動之所致乃與人參劑多服之而不見寸功"
+            },
+            {
+              "text": "家人惘然不知所措偶有星士結儔引黨來詒曰是"
+            },
+            {
+              "text": "狐魘也我輩戮力行法能蠲之其驗可立見焉於是"
+            },
+            {
+              "text": "設壇陳俎打皷擊鐘吃聒雜沓星士大喝數病者曰"
+            },
+            {
+              "text": "汝狐當露狐形發狐聲而去執香爐以薰蒸一茶頃"
+            },
+            {
+              "text": "病者咽烟苦楚不知所道伴爲狐鳴訴寃星士曰是"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "二十",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "鴻著",
+          "candidates": [],
+          "note": "第2欄「鴻著」待核。第3、4欄「有宮無商」連讀。第4欄「慊」、第10欄「售伎鬻奸」待核。第7欄後留白，第8欄另起。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "慊",
+          "candidates": [],
+          "note": "第2欄「鴻著」待核。第3、4欄「有宮無商」連讀。第4欄「慊」、第10欄「售伎鬻奸」待核。第7欄後留白，第8欄另起。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "售伎鬻奸",
+          "candidates": [],
+          "note": "第2欄「鴻著」待核。第3、4欄「有宮無商」連讀。第4欄「慊」、第10欄「售伎鬻奸」待核。第7欄後留白，第8欄另起。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "謇澁",
+          "candidates": [],
+          "note": "第3欄「謇澁」、第6欄「結儔」、第7欄「狐魘」「蠲」、第8欄「皷」「吃聒」、第10欄「伴」均有字形疑點，伴另候佯。第10欄有淡灰痕，字仍可辨。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "結儔",
+          "candidates": [],
+          "note": "第3欄「謇澁」、第6欄「結儔」、第7欄「狐魘」「蠲」、第8欄「皷」「吃聒」、第10欄「伴」均有字形疑點，伴另候佯。第10欄有淡灰痕，字仍可辨。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "狐魘",
+          "candidates": [],
+          "note": "第3欄「謇澁」、第6欄「結儔」、第7欄「狐魘」「蠲」、第8欄「皷」「吃聒」、第10欄「伴」均有字形疑點，伴另候佯。第10欄有淡灰痕，字仍可辨。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "蠲",
+          "candidates": [],
+          "note": "第3欄「謇澁」、第6欄「結儔」、第7欄「狐魘」「蠲」、第8欄「皷」「吃聒」、第10欄「伴」均有字形疑點，伴另候佯。第10欄有淡灰痕，字仍可辨。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "皷",
+          "candidates": [],
+          "note": "第3欄「謇澁」、第6欄「結儔」、第7欄「狐魘」「蠲」、第8欄「皷」「吃聒」、第10欄「伴」均有字形疑點，伴另候佯。第10欄有淡灰痕，字仍可辨。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "吃聒",
+          "candidates": [],
+          "note": "第3欄「謇澁」、第6欄「結儔」、第7欄「狐魘」「蠲」、第8欄「皷」「吃聒」、第10欄「伴」均有字形疑點，伴另候佯。第10欄有淡灰痕，字仍可辨。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "伴",
+          "candidates": [],
+          "note": "第3欄「謇澁」、第6欄「結儔」、第7欄「狐魘」「蠲」、第8欄「皷」「吃聒」、第10欄「伴」均有字形疑點，伴另候佯。第10欄有淡灰痕，字仍可辨。"
+        }
+      ],
+      "observations": "右面：第2欄「鴻著」待核。第3、4欄「有宮無商」連讀。第4欄「慊」、第10欄「售伎鬻奸」待核。第7欄後留白，第8欄另起。 左面：第3欄「謇澁」、第6欄「結儔」、第7欄「狐魘」「蠲」、第8欄「皷」「吃聒」、第10欄「伴」均有字形疑點，伴另候佯。第10欄有淡灰痕，字仍可辨。"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/27",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00026.tif/full/full/0/default.jpg",
+      "label": "27",
+      "file": "27.jpg",
+      "sha256": "79b7e820d3770bc8c28da462d2d308a0647fdfa46c747d9e072e6464616ac0b8",
+      "bytes": 260573,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "老狐也潛伏在内一夕禱禳何能見其驗又宜期明"
+            },
+            {
+              "text": "夜於是飲美酒喫新鮮家人厚遇之明夜又至迫劫"
+            },
+            {
+              "text": "如前凡如是者浹旬而毫無功其誣罔過文成五利"
+            },
+            {
+              "text": "遠矣余聞之扼腕切齒不勝痛恨蓋天之未喪斯人"
+            },
+            {
+              "text": "也瓜葛來迎余便往診之雖詳辨疾病狐症之區別"
+            },
+            {
+              "text": "家人不肯曰修法翌早必有毛之在病者袖裡是乃"
+            },
+            {
+              "text": "狐之出入也余照刷其毛不獨狐毛他獸之毛亦加"
+            },
+            {
+              "text": "焉乃取以諭示之家人始知星士之妖計怪術而非"
+            },
+            {
+              "text": "狐祟遂遠星士後不復覩一毛之在袖裡者於是決"
+            },
+            {
+              "text": "疑悔過而託治於余乃與柴胡龍骨牡蠣湯服之百"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "有餘日而愈矣彼若不悟而落於庸醫與星士之手"
+            },
+            {
+              "text": "則縱令免上鬼簿其快復亦難期也由此觀之古明"
+            },
+            {
+              "text": "君之言實足以破奸邪之膽嗟乎可不深監乎哉"
+            },
+            {
+              "text": "昔荊龔王與晉厲公戰荊師敗焉司馬子反渴而求"
+            },
+            {
+              "text": "飲豎陽穀操黍酒進子反飲之龔王欲復戰子反辭"
+            },
+            {
+              "text": "以心疾龔王駕而往聞酒臭而還曰所恃者司馬也"
+            },
+            {
+              "text": "而司馬又若此不恤吾衆也斬子反以爲戮醫門亦"
+            },
+            {
+              "text": "有似之橋本文郁尾張人醫術精密經籍該博患者"
+            },
+            {
+              "text": "請治肩摩踵至蓋醫林之翹秀也然性嗜酒醉癖殊"
+            },
+            {
+              "text": "惡嘗某女患傷寒衆醫皆束手文郁獨立奇功父母"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "二十一",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "浹旬",
+          "candidates": [],
+          "note": "第3欄「浹旬」「誣罔」、第4欄「扼腕」、第7欄「照刷」、第9欄「覩」待核，暫用可見字形。正文靠下紙色略灰，未影響主要字形。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "誣罔",
+          "candidates": [],
+          "note": "第3欄「浹旬」「誣罔」、第4欄「扼腕」、第7欄「照刷」、第9欄「覩」待核，暫用可見字形。正文靠下紙色略灰，未影響主要字形。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "扼腕",
+          "candidates": [],
+          "note": "第3欄「浹旬」「誣罔」、第4欄「扼腕」、第7欄「照刷」、第9欄「覩」待核，暫用可見字形。正文靠下紙色略灰，未影響主要字形。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "照刷",
+          "candidates": [],
+          "note": "第3欄「浹旬」「誣罔」、第4欄「扼腕」、第7欄「照刷」、第9欄「覩」待核，暫用可見字形。正文靠下紙色略灰，未影響主要字形。"
+        },
+        {
+          "side": "right",
+          "column": 9,
+          "context": "覩",
+          "candidates": [],
+          "note": "第3欄「浹旬」「誣罔」、第4欄「扼腕」、第7欄「照刷」、第9欄「覩」待核，暫用可見字形。正文靠下紙色略灰，未影響主要字形。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "監",
+          "candidates": [],
+          "note": "第3欄末前「監」下見皿、未見金旁。第4、5、6欄「龔王」三見，字上龍下共，第5欄「豎陽穀」待核。第8欄「橋本文郁」之郁左有右阝。版面下方有水痕，末欄可讀。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "龔王",
+          "candidates": [],
+          "note": "第3欄末前「監」下見皿、未見金旁。第4、5、6欄「龔王」三見，字上龍下共，第5欄「豎陽穀」待核。第8欄「橋本文郁」之郁左有右阝。版面下方有水痕，末欄可讀。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "豎陽穀",
+          "candidates": [],
+          "note": "第3欄末前「監」下見皿、未見金旁。第4、5、6欄「龔王」三見，字上龍下共，第5欄「豎陽穀」待核。第8欄「橋本文郁」之郁左有右阝。版面下方有水痕，末欄可讀。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "橋本文郁",
+          "candidates": [],
+          "note": "第3欄末前「監」下見皿、未見金旁。第4、5、6欄「龔王」三見，字上龍下共，第5欄「豎陽穀」待核。第8欄「橋本文郁」之郁左有右阝。版面下方有水痕，末欄可讀。"
+        }
+      ],
+      "observations": "右面：第3欄「浹旬」「誣罔」、第4欄「扼腕」、第7欄「照刷」、第9欄「覩」待核，暫用可見字形。正文靠下紙色略灰，未影響主要字形。 左面：第3欄末前「監」下見皿、未見金旁。第4、5、6欄「龔王」三見，字上龍下共，第5欄「豎陽穀」待核。第8欄「橋本文郁」之郁左有右阝。版面下方有水痕，末欄可讀。"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00027.tif/full/full/0/default.jpg",
+      "label": "28",
+      "file": "28.jpg",
+      "sha256": "73e3bad32421be687a8c019b403282a8a0daf36983d1a7be1bcc156f1754a198",
+      "bytes": 259353,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "喜曰若微先生何得有今日欵待殊優供張甚盛文"
+            },
+            {
+              "text": "郁意氣揚揚牛飲鯨吸爛醉如泥其女又驟發寒顫"
+            },
+            {
+              "text": "煩悶躁擾驚跳如狂家人蒼黃以衾覆之令不得撥"
+            },
+            {
+              "text": "起急告文郁郁醉態醄醄入手於衾中捉其脚盯睞"
+            },
+            {
+              "text": "良久妄語唵囈頽然就鼾睡家人大茫悚遽招他醫"
+            },
+            {
+              "text": "而獲治矣鼎鐺尚有耳孰不聞其暴行乎身居司命"
+            },
+            {
+              "text": "官其行如此惡名即傳四方謗議不旋踵因辭父母"
+            },
+            {
+              "text": "邦移居于伊勢此誠麴蘖之所致不可不慎焉今也"
+            },
+            {
+              "text": "病家招醫請治措劑按排之間強進酒使醫大醉則"
+            },
+            {
+              "text": "神志恍惚隱微之診嫌疑之訣安得盡其詳審哉縱"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "令未至於斃人輕重倒置深淺錯亂無乃牛刀割雞"
+            },
+            {
+              "text": "兔置張鹿之弊乎故病家蓋酒醫飲之固有法惟適"
+            },
+            {
+              "text": "其量不過其度可也後生當慎省其身以莫受醉敗"
+            },
+            {
+              "text": "之誚"
+            },
+            {
+              "text": "一農家男疾病請治於余往診之傷寒危篤之證也"
+            },
+            {
+              "text": "一醫某在坐余曰下利腹痛手足微冷似少陰證然"
+            },
+            {
+              "text": "眼中如朱口舌乾燥而腹候猶有毒實之狀蓋屬陽"
+            },
+            {
+              "text": "明證宜用大承氣湯下之一醫曰愚見亦是也然而"
+            },
+            {
+              "text": "不侫之臨病措方也至於其劇證而存疑者不敢自"
+            },
+            {
+              "text": "斷決必卜衆方於神以定之故日日調慮方於神而"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心題名",
+              "text": "長沙醫話",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "二十二",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 4,
+          "context": "醄",
+          "candidates": [],
+          "note": "第4欄兩「醄」左酉右以勹形包缶，「盯睞」待核。第5欄「唵囈」「茫悚」待核。第6欄「鐺」右下有田，非鑑。第8欄「麴蘖」、第9欄「按排」待核。右下靠正文末有缺邊。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "盯睞",
+          "candidates": [],
+          "note": "第4欄兩「醄」左酉右以勹形包缶，「盯睞」待核。第5欄「唵囈」「茫悚」待核。第6欄「鐺」右下有田，非鑑。第8欄「麴蘖」、第9欄「按排」待核。右下靠正文末有缺邊。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "唵囈",
+          "candidates": [],
+          "note": "第4欄兩「醄」左酉右以勹形包缶，「盯睞」待核。第5欄「唵囈」「茫悚」待核。第6欄「鐺」右下有田，非鑑。第8欄「麴蘖」、第9欄「按排」待核。右下靠正文末有缺邊。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "茫悚",
+          "candidates": [],
+          "note": "第4欄兩「醄」左酉右以勹形包缶，「盯睞」待核。第5欄「唵囈」「茫悚」待核。第6欄「鐺」右下有田，非鑑。第8欄「麴蘖」、第9欄「按排」待核。右下靠正文末有缺邊。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "鐺",
+          "candidates": [],
+          "note": "第4欄兩「醄」左酉右以勹形包缶，「盯睞」待核。第5欄「唵囈」「茫悚」待核。第6欄「鐺」右下有田，非鑑。第8欄「麴蘖」、第9欄「按排」待核。右下靠正文末有缺邊。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "麴蘖",
+          "candidates": [],
+          "note": "第4欄兩「醄」左酉右以勹形包缶，「盯睞」待核。第5欄「唵囈」「茫悚」待核。第6欄「鐺」右下有田，非鑑。第8欄「麴蘖」、第9欄「按排」待核。右下靠正文末有缺邊。"
+        },
+        {
+          "side": "right",
+          "column": 9,
+          "context": "按排",
+          "candidates": [],
+          "note": "第4欄兩「醄」左酉右以勹形包缶，「盯睞」待核。第5欄「唵囈」「茫悚」待核。第6欄「鐺」右下有田，非鑑。第8欄「麴蘖」、第9欄「按排」待核。右下靠正文末有缺邊。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "兔置張鹿",
+          "candidates": [],
+          "note": "第2欄「兔置張鹿」第二字待核，另候罝。第4欄只二字，第5欄另起。第9欄「侫」、第10欄「調慮」待核，後者第二字底部筆形難辨。第10欄下沿有缺邊。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "侫",
+          "candidates": [],
+          "note": "第2欄「兔置張鹿」第二字待核，另候罝。第4欄只二字，第5欄另起。第9欄「侫」、第10欄「調慮」待核，後者第二字底部筆形難辨。第10欄下沿有缺邊。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "調慮",
+          "candidates": [],
+          "note": "第2欄「兔置張鹿」第二字待核，另候罝。第4欄只二字，第5欄另起。第9欄「侫」、第10欄「調慮」待核，後者第二字底部筆形難辨。第10欄下沿有缺邊。"
+        }
+      ],
+      "observations": "右面：第4欄兩「醄」左酉右以勹形包缶，「盯睞」待核。第5欄「唵囈」「茫悚」待核。第6欄「鐺」右下有田，非鑑。第8欄「麴蘖」、第9欄「按排」待核。右下靠正文末有缺邊。 左面：第2欄「兔置張鹿」第二字待核，另候罝。第4欄只二字，第5欄另起。第9欄「侫」、第10欄「調慮」待核，後者第二字底部筆形難辨。第10欄下沿有缺邊。"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00028.tif/full/full/0/default.jpg",
+      "label": "29",
+      "file": "29.jpg",
+      "sha256": "72326f39f0dffb42b714a0348218cc53f91c24549ae3e42ec184d7570dec376d",
+      "bytes": 259445,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "未嘗出于參蘇飲之外今朝神乃授小柴胡湯因與"
+            },
+            {
+              "text": "之然私謂未得穩當故請先生之洞炤耳余黙然不"
+            },
+            {
+              "text": "應退而語諸二三子皆笑而鄙之余曰不然今所謂"
+            },
+            {
+              "text": "大家者衒巧掠美鑿空談虛以玩弄病者付性命於"
+            },
+            {
+              "text": "草艾耳豈能無愧于調神之醫乎"
+            },
+            {
+              "text": "吉見醫小島玄隆携畫幅來乞題言於余輒展觀之"
+            },
+            {
+              "text": "奸盜劫賊圖也余怪問曰醫家所藏三皇或張氏之"
+            },
+            {
+              "text": "像也子獨異乎衆者何也玄隆答曰吾鄉有醫家蓄"
+            },
+            {
+              "text": "五車書不能讀一丁字巧言欺俗售媚求利所謂醫"
+            },
+            {
+              "text": "而盜者也僕大懼故將圖之係以警戒之語而遺諸"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "子孫余甚善之乃攬筆題其上曰荀子曰人無師無"
+            },
+            {
+              "text": "法而知則必爲盜勇則必爲賊余也業醫以醫譬之"
+            },
+            {
+              "text": "夫不藉明師不學正法邪智奸勇恣其所施虛僞百"
+            },
+            {
+              "text": "端飾非遂過遺廉恥而趨名利虎志狼心犬馬視人"
+            },
+            {
+              "text": "非命斃人醜然不顧咄嗟嗚呼貴重之器遇彼擊碎"
+            },
+            {
+              "text": "不亦痛乎誰云庸醫之陰慝過于賊遠矣寧遇於賊"
+            },
+            {
+              "text": "莫委身于庸醫"
+            },
+            {
+              "text": "城北平戶村有醫曰千里遠馬今亡矣往日入余門"
+            },
+            {
+              "text": "請學鍼法余視其爲人雄額濶面色如渥赭垂眼臨"
+            },
+            {
+              "text": "鼻長肘而麤狀貌魁偉武毅粗率非修醫之容非念"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "二十三",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "洞炤",
+          "candidates": [],
+          "note": "版心殘題「長沙醫話」。第2欄「洞炤」、第4欄「衒巧」、末欄「係」待核。末句接左面。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "衒巧",
+          "candidates": [],
+          "note": "版心殘題「長沙醫話」。第2欄「洞炤」、第4欄「衒巧」、末欄「係」待核。末句接左面。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "係",
+          "candidates": [],
+          "note": "版心殘題「長沙醫話」。第2欄「洞炤」、第4欄「衒巧」、末欄「係」待核。末句接左面。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "醜然",
+          "candidates": [],
+          "note": "第5欄「醜然」、第9欄「渥赭」、末欄「麤」待核。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "渥赭",
+          "candidates": [],
+          "note": "第5欄「醜然」、第9欄「渥赭」、末欄「麤」待核。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "麤",
+          "candidates": [],
+          "note": "第5欄「醜然」、第9欄「渥赭」、末欄「麤」待核。"
+        }
+      ],
+      "observations": "右面：版心殘題「長沙醫話」。第2欄「洞炤」、第4欄「衒巧」、末欄「係」待核。末句接左面。 左面：第5欄「醜然」、第9欄「渥赭」、末欄「麤」待核。"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00029.tif/full/full/0/default.jpg",
+      "label": "30",
+      "file": "30.jpg",
+      "sha256": "be95a0a3af656811f07f1dd054af1868d5f7ed510a0066135cdc5b6311877c13",
+      "bytes": 261291,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "鍼之手也因試問汝讀書邪答曰醫書則閱醫道日"
+            },
+            {
+              "text": "用重寶記鍼法則諳鍼刺歌訣辭氣昂然無愧色余"
+            },
+            {
+              "text": "授刺法一二揖欣然而去門生捧腹笑其戇陋余喩"
+            },
+            {
+              "text": "之曰勿笑勿笑智愚存乎其人精疎由于其師彼不"
+            },
+            {
+              "text": "甚愚亦遇良師故拙陋乃爾滔滔天下皆是也夫讀"
+            },
+            {
+              "text": "倭譯之俗書以稱西洋家者目不知一丁字顧乃譏"
+            },
+            {
+              "text": "先賢崇詭說虛言唱喝談空理竦俗聽是豈不可惡"
+            },
+            {
+              "text": "之甚者乎今譯鶻古之言蛇足失真以訛傳人猶且"
+            },
+            {
+              "text": "誤其意況曖昧之辨彷彿之義紛亂舛錯傳寸誤尺"
+            },
+            {
+              "text": "者亦極多矣昔者魯哀公問於孔子曰樂正夔一足"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "信乎孔子對曰舜欲以樂傳敎天下夔能和之以平"
+            },
+            {
+              "text": "天下若夔者一而足矣故曰一足非一足也有三世"
+            },
+            {
+              "text": "之醫於此常依倭訓衆方規矩而施治誤讀紫蘇和"
+            },
+            {
+              "text": "氣飲以爲味噌和氣飲每用入豉一撮數十年矣後"
+            },
+            {
+              "text": "得新刻本而始知紫蘇之非味噌矣夫哀公以一足"
+            },
+            {
+              "text": "爲隻脚醫以國音相近致誤若不遇孔子與新刻本"
+            },
+            {
+              "text": "則終身不悟焉故尊奉倭譯書之徒不爲哀公醫生"
+            },
+            {
+              "text": "者幾希矣盖雖能讀原書毫釐不忒者至其窮理之"
+            },
+            {
+              "text": "精則余未之信也何則夫理者在於物我循其自然"
+            },
+            {
+              "text": "之理而裁成之耳今之所謂窮理者馳私智攷穿鑿"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "二十四",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "揖",
+          "candidates": [],
+          "note": "版心殘題「長沙醫話」。第3欄「揖」「戇陋」、第7欄「竦」、第8欄「鶻」待核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "戇陋",
+          "candidates": [],
+          "note": "版心殘題「長沙醫話」。第3欄「揖」「戇陋」、第7欄「竦」、第8欄「鶻」待核。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "竦",
+          "candidates": [],
+          "note": "版心殘題「長沙醫話」。第3欄「揖」「戇陋」、第7欄「竦」、第8欄「鶻」待核。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "鶻",
+          "candidates": [],
+          "note": "版心殘題「長沙醫話」。第3欄「揖」「戇陋」、第7欄「竦」、第8欄「鶻」待核。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "世",
+          "candidates": [],
+          "note": "第2欄「世」、第3欄「衆」、第7欄「醫生」依現在可見筆形。末欄「攷」待核，接下幅。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "衆",
+          "candidates": [],
+          "note": "第2欄「世」、第3欄「衆」、第7欄「醫生」依現在可見筆形。末欄「攷」待核，接下幅。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "醫生",
+          "candidates": [],
+          "note": "第2欄「世」、第3欄「衆」、第7欄「醫生」依現在可見筆形。末欄「攷」待核，接下幅。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "攷",
+          "candidates": [],
+          "note": "第2欄「世」、第3欄「衆」、第7欄「醫生」依現在可見筆形。末欄「攷」待核，接下幅。"
+        }
+      ],
+      "observations": "右面：版心殘題「長沙醫話」。第3欄「揖」「戇陋」、第7欄「竦」、第8欄「鶻」待核。 左面：第2欄「世」、第3欄「衆」、第7欄「醫生」依現在可見筆形。末欄「攷」待核，接下幅。"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/31",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00030.tif/full/full/0/default.jpg",
+      "label": "31",
+      "file": "31.jpg",
+      "sha256": "963db470d2912ea90d2c37f594ac89e1671fb1be8dd47a11262083779bc6f045",
+      "bytes": 251390,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "曲直長短枉彼而傅會於我故理在我而不在物也"
+            },
+            {
+              "text": "孟子非之不亦宜乎夫曰天理地理曰道理義理曰"
+            },
+            {
+              "text": "木理條理曰肌理脉理者此皆存於自然而不可易"
+            },
+            {
+              "text": "者也如夫天理地理道理義理之類皆可推知焉其"
+            },
+            {
+              "text": "可推知者在博讀聖賢之書而徵之於今日以明無"
+            },
+            {
+              "text": "偏無黨得失利害一中繩矩之理故呂覽曰心之智"
+            },
+            {
+              "text": "也藉於理其藉於理者循其自然之理也今也無學"
+            },
+            {
+              "text": "之輩心無權度而妄馳私智何能得其真乎且天地"
+            },
+            {
+              "text": "之大萬物之多以有限之智極無窮之理不亦難哉"
+            },
+            {
+              "text": "若夫凡有角者無上齒果實繁者木必痺之類言其"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "理者各各不同何也此以臆測之也假令有窮理能"
+            },
+            {
+              "text": "得其情實者了無用於治術耳是之不悟而擘心椎"
+            },
+            {
+              "text": "骨以求之焦唇乾噬以說之不亦愚之甚哉吾黨小"
+            },
+            {
+              "text": "子欲得醫道之蘊者莫如博讀聖賢之書篤信張氏"
+            },
+            {
+              "text": "之言循法則而貴活用矣嗚呼襪線學力而笑遠馬"
+            },
+            {
+              "text": "者此亦遠馬耳明夏寅有言曰君子有三惜此生不"
+            },
+            {
+              "text": "學一可惜也此日閒過二可惜也此身一敗三可惜"
+            },
+            {
+              "text": "也嗟呼小子勉旃小子勉旃"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "二十五",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 6,
+          "context": "一中",
+          "candidates": [],
+          "note": "版心殘題「長沙醫話」。第6欄「一中」、第10欄「齒」「痺」待核。末欄接左面。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "齒",
+          "candidates": [],
+          "note": "版心殘題「長沙醫話」。第6欄「一中」、第10欄「齒」「痺」待核。末欄接左面。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "痺",
+          "candidates": [],
+          "note": "版心殘題「長沙醫話」。第6欄「一中」、第10欄「齒」「痺」待核。末欄接左面。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "乾噬",
+          "candidates": [],
+          "note": "第3欄「乾噬」、第5欄「襪線」待核。左緣兩直欄空白，末句於第8欄止。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "襪線",
+          "candidates": [],
+          "note": "第3欄「乾噬」、第5欄「襪線」待核。左緣兩直欄空白，末句於第8欄止。"
+        }
+      ],
+      "observations": "右面：版心殘題「長沙醫話」。第6欄「一中」、第10欄「齒」「痺」待核。末欄接左面。 左面：第3欄「乾噬」、第5欄「襪線」待核。左緣兩直欄空白，末句於第8欄止。"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/32",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00031.tif/full/full/0/default.jpg",
+      "label": "32",
+      "file": "32.jpg",
+      "sha256": "0fe5789e79219fb94252ca3bc1822584ea8fea7078eeefc78f95bb45f908c90b",
+      "bytes": 146697,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "長沙醫話終"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：終題刻於正面左一欄，右側欄框無本面文字，所見淺灰為透頁。 左面：末襯，無本面文字。"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/33",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100348103/v4/KYUS/KYUS-01117/KYUS-01117-00032.tif/full/full/0/default.jpg",
+      "label": "33",
+      "file": "33.jpg",
+      "sha256": "cb9d28b0cd5f5c3b6c931667390b606bc418762f5c7e8bed954b3ddf14d4ff63",
+      "bytes": 133713,
+      "native_width": 4500,
+      "native_height": 3003,
+      "content_role": "binding-or-digitization-metadata",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：黃紙後封，無正文，右下緣有細小破損及線痕。"
+    }
+  ]
+}

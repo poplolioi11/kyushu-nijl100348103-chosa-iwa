@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: If you use this transcription, please cite the dataset version and the source
+  copy.
+title: '長沙醫話初編（1853 年刊面，九州大學 チ-54） / Chōsa iwa shohen [Medical discussions on Zhang
+  Zhongjing, first series]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/kyushu-nijl100348103-chosa-iwa
+keywords:
+- 長沙醫話初編
+- 長沙醫話
+- 長沙医話
+- 岸田雲
+- 傷寒論
+- 江戶醫學史
+- 古方派
+- 醫案
+- 和漢古醫書
+- Chōsa iwa
+- Kishida Un
+- Zhang Zhongjing
+- Shanghan lun
+- kanbun
+- Edo-period medical history

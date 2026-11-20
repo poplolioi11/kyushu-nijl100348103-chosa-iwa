@@ -17,7 +17,7 @@
     "manifest_url": "https://kokusho.nijl.ac.jp/biblio/100348103/manifest",
     "manifest_sha256": "2cad6987d7f9b684e7ad76515479e06b9dd3c6dcf48ba706dca60b4fc6249641",
     "record_id": "NIJL100348103",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       4,
       5,
@@ -49,9 +49,9 @@
       31,
       32
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "長沙醫話初編（1853 年刊面，九州大學 チ-54） / Chōsa iwa shohen [Medical discussions on Zhang Zhongjing, first series]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -235,7 +235,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -338,7 +338,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -483,7 +483,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -528,7 +528,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "而事治可求焉假使有治法跡於長"
+              "text": "而事治可求矣假使有治法跡於長"
             },
             {
               "text": "沙氏之機活運用得中肯綮者焉能"
@@ -656,7 +656,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -776,7 +776,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -910,7 +910,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1044,7 +1044,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1206,7 +1206,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1333,7 +1333,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1445,7 +1445,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1557,7 +1557,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1684,7 +1684,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1811,7 +1811,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1914,7 +1914,10 @@
           "side": "left",
           "column": 1,
           "context": "□",
-          "candidates": [],
+          "candidates": [
+            "裒",
+            "舊"
+          ],
           "note": "部分筆畫不清，原圖字形待核。"
         },
         {
@@ -1959,7 +1962,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2015,7 +2018,7 @@
               "text": "相畏相反之法高論確言喋喋可聽然而觀其實則"
             },
             {
-              "text": "跋胡疐尾行不能掩其言也今有病毒攻內顯□其"
+              "text": "跋胡疐尾行不能掩其言也今有病毒攻內顙□其"
             },
             {
               "text": "外之證屬諸虛損惟補之務譬猶以指測河以戈舂"
@@ -2062,7 +2065,10 @@
           "side": "left",
           "column": 3,
           "context": "□",
-          "candidates": [],
+          "candidates": [
+            "頸",
+            "頰"
+          ],
           "note": "部分筆畫不清，原圖字形待核。"
         },
         {
@@ -2107,7 +2113,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2227,7 +2233,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2347,7 +2353,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2459,7 +2465,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2586,7 +2592,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2748,7 +2754,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2917,7 +2923,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3051,7 +3057,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3206,7 +3212,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3262,7 +3268,7 @@
               "text": "四肢倦飢飲啖二便皆如平日及其稍發則四肢頑"
             },
             {
-              "text": "麻不能起語言謇澁不能言至其暴發也遺尿失溲"
+              "text": "麻不能起語言蹇澁不能言至其暴發也遺尿失溲"
             },
             {
               "text": "不省人事或半日或一日而蘇其狀如鬼祟醫以爲"
@@ -3389,7 +3395,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3565,7 +3571,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3580,7 +3586,7 @@
               "text": "煩悶躁擾驚跳如狂家人蒼黃以衾覆之令不得撥"
             },
             {
-              "text": "起急告文郁郁醉態醄醄入手於衾中捉其脚盯睞"
+              "text": "起急告文郁郁醉態醄醄入手於衾中捉其脚眄睞"
             },
             {
               "text": "良久妄語唵囈頽然就鼾睡家人大茫悚遽招他醫"
@@ -3642,7 +3648,7 @@
               "text": "不侫之臨病措方也至於其劇證而存疑者不敢自"
             },
             {
-              "text": "斷決必卜衆方於神以定之故日日調慮方於神而"
+              "text": "斷決必卜衆方於神以定之故日日調處方於神而"
             }
           ],
           "extras": [
@@ -3748,7 +3754,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3802,10 +3808,10 @@
               "text": "端飾非遂過遺廉恥而趨名利虎志狼心犬馬視人"
             },
             {
-              "text": "非命斃人醜然不顧咄嗟嗚呼貴重之器遇彼擊碎"
+              "text": "非命斃人靦然不顧咄嗟嗚呼貴重之器遇彼擊碎"
             },
             {
-              "text": "不亦痛乎誰云庸醫之陰慝過于賊遠矣寧遇於賊"
+              "text": "不亦痛乎諺云庸醫之陰慝過于賊遠矣寧遇於賊"
             },
             {
               "text": "莫委身于庸醫"
@@ -3817,7 +3823,7 @@
               "text": "請學鍼法余視其爲人雄額濶面色如渥赭垂眼臨"
             },
             {
-              "text": "鼻長肘而麤狀貌魁偉武毅粗率非修醫之容非念"
+              "text": "鼻長肘而鼇狀貌魁偉武毅粗率非修醫之容非□"
             }
           ],
           "extras": [
@@ -3873,6 +3879,26 @@
           "context": "麤",
           "candidates": [],
           "note": "第5欄「醜然」、第9欄「渥赭」、末欄「麤」待核。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "□",
+          "candidates": [
+            "念",
+            "捻"
+          ],
+          "note": "欄內有形近異體，末端紙邊缺損。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "鼇",
+          "candidates": [
+            "鼇",
+            "鰲"
+          ],
+          "note": "欄內有形近異體，末端紙邊缺損。"
         }
       ],
       "observations": "右面：版心殘題「長沙醫話」。第2欄「洞炤」、第4欄「衒巧」、末欄「係」待核。末句接左面。 左面：第5欄「醜然」、第9欄「渥赭」、末欄「麤」待核。"
@@ -3888,7 +3914,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3900,7 +3926,7 @@
               "text": "用重寶記鍼法則諳鍼刺歌訣辭氣昂然無愧色余"
             },
             {
-              "text": "授刺法一二揖欣然而去門生捧腹笑其戇陋余喩"
+              "text": "授刺法一二痏欣然而去門生捧腹笑其戇陋余喩"
             },
             {
               "text": "之曰勿笑勿笑智愚存乎其人精疎由于其師彼不"
@@ -3915,7 +3941,7 @@
               "text": "先賢崇詭說虛言唱喝談空理竦俗聽是豈不可惡"
             },
             {
-              "text": "之甚者乎今譯鶻古之言蛇足失真以訛傳人猶且"
+              "text": "之甚者乎今譯鴃舌之言蛇足失真以言傳人猶且"
             },
             {
               "text": "誤其意況曖昧之辨彷彿之義紛亂舛錯傳寸誤尺"
@@ -4042,7 +4068,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4075,7 +4101,7 @@
               "text": "之大萬物之多以有限之智極無窮之理不亦難哉"
             },
             {
-              "text": "若夫凡有角者無上齒果實繁者木必痺之類言其"
+              "text": "若夫凡有角者無上齒果實繁者木必庳之類言其"
             }
           ],
           "extras": []
@@ -4090,7 +4116,7 @@
               "text": "得其情實者了無用於治術耳是之不悟而擘心椎"
             },
             {
-              "text": "骨以求之焦唇乾噬以說之不亦愚之甚哉吾黨小"
+              "text": "骨以求之焦唇乾嗌以說之不亦愚之甚哉吾黨小"
             },
             {
               "text": "子欲得醫道之蘊者莫如博讀聖賢之書篤信張氏"
@@ -4169,7 +4195,7 @@
       "native_width": 4500,
       "native_height": 3003,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4187,7 +4213,7 @@
         }
       ],
       "issues": [],
-      "observations": "右面：終題刻於正面左一欄，右側欄框無本面文字，所見淺灰為透頁。 左面：末襯，無本面文字。"
+      "observations": "右面：終題刻於正面左一欄，右側欄框無本面文字，所見淺灰為透頁。 左面：末襯，無本面文字。 此幅沒有另列刊記，1853 年刊面見第 4 幅。"
     },
     {
       "image": 33,

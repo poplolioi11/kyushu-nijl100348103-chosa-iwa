@@ -4,7 +4,7 @@ message: If you use this transcription, please cite the dataset version and the 
 title: '長沙醫話初編（1853 年刊面，九州大學 チ-54） / Chōsa iwa shohen [Medical discussions on Zhang
   Zhongjing, first series]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

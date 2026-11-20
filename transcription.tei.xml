@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -414,7 +414,7 @@
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f06-l-c01">
-              <seg type="diplomatic-text">而事治可求焉假使有治法跡於長</seg>
+              <seg type="diplomatic-text">而事治可求矣假使有治法跡於長</seg>
             </ab>
             <ab type="column" n="2" xml:id="f06-l-c02">
               <seg type="diplomatic-text">沙氏之機活運用得中肯綮者焉能</seg>
@@ -1379,6 +1379,8 @@
             <ab type="layout">右面：第一欄「卧」依刊形。第四欄「箝」形待覆核。第五欄新段起首。 左面：第一欄第18字疑為「裒」待核。第五欄「渴」和第六欄「聳」「醜」待覆核。第六欄「耻」依刊形。</ab>
             <ab type="transcription-issue" n="left:1">
               <quote>□</quote>
+              <seg type="candidate">裒</seg>
+              <seg type="candidate">舊</seg>
               <note type="editorial">部分筆畫不清，原圖字形待核。</note>
             </ab>
             <ab type="transcription-issue" n="left:5">
@@ -1445,7 +1447,7 @@
               <seg type="diplomatic-text">相畏相反之法高論確言喋喋可聽然而觀其實則</seg>
             </ab>
             <ab type="column" n="3" xml:id="f17-l-c03">
-              <seg type="diplomatic-text">跋胡疐尾行不能掩其言也今有病毒攻內顯□其</seg>
+              <seg type="diplomatic-text">跋胡疐尾行不能掩其言也今有病毒攻內顙□其</seg>
             </ab>
             <ab type="column" n="4" xml:id="f17-l-c04">
               <seg type="diplomatic-text">外之證屬諸虛損惟補之務譬猶以指測河以戈舂</seg>
@@ -1481,6 +1483,8 @@
             <ab type="layout">右面：第三欄原刻「苟子」首字下似口，待覆核。第五欄下留白，第六欄起新段。第六七欄「太卜／大卜」據可見筆形原樣分錄，待覆核。 左面：第三欄第19字未定，形近「顉／頰」，待辨；「疐」待覆核。第九欄「枵」與末欄「底」形待核。「涌」所見為水旁。</ab>
             <ab type="transcription-issue" n="left:3">
               <quote>□</quote>
+              <seg type="candidate">頸</seg>
+              <seg type="candidate">頰</seg>
               <note type="editorial">部分筆畫不清，原圖字形待核。</note>
             </ab>
             <ab type="transcription-issue" n="left:3">
@@ -2315,7 +2319,7 @@
               <seg type="diplomatic-text">四肢倦飢飲啖二便皆如平日及其稍發則四肢頑</seg>
             </ab>
             <ab type="column" n="3" xml:id="f26-l-c03">
-              <seg type="diplomatic-text">麻不能起語言謇澁不能言至其暴發也遺尿失溲</seg>
+              <seg type="diplomatic-text">麻不能起語言蹇澁不能言至其暴發也遺尿失溲</seg>
             </ab>
             <ab type="column" n="4" xml:id="f26-l-c04">
               <seg type="diplomatic-text">不省人事或半日或一日而蘇其狀如鬼祟醫以爲</seg>
@@ -2522,7 +2526,7 @@
               <seg type="diplomatic-text">煩悶躁擾驚跳如狂家人蒼黃以衾覆之令不得撥</seg>
             </ab>
             <ab type="column" n="4" xml:id="f28-r-c04">
-              <seg type="diplomatic-text">起急告文郁郁醉態醄醄入手於衾中捉其脚盯睞</seg>
+              <seg type="diplomatic-text">起急告文郁郁醉態醄醄入手於衾中捉其脚眄睞</seg>
             </ab>
             <ab type="column" n="5" xml:id="f28-r-c05">
               <seg type="diplomatic-text">良久妄語唵囈頽然就鼾睡家人大茫悚遽招他醫</seg>
@@ -2576,7 +2580,7 @@
               <seg type="diplomatic-text">不侫之臨病措方也至於其劇證而存疑者不敢自</seg>
             </ab>
             <ab type="column" n="10" xml:id="f28-l-c10">
-              <seg type="diplomatic-text">斷決必卜衆方於神以定之故日日調慮方於神而</seg>
+              <seg type="diplomatic-text">斷決必卜衆方於神以定之故日日調處方於神而</seg>
             </ab>
             <ab type="page-feature" subtype="running-title" corresp="#f28-l-c10">
               <label>版心題名</label>
@@ -2679,10 +2683,10 @@
               <seg type="diplomatic-text">端飾非遂過遺廉恥而趨名利虎志狼心犬馬視人</seg>
             </ab>
             <ab type="column" n="5" xml:id="f29-l-c05">
-              <seg type="diplomatic-text">非命斃人醜然不顧咄嗟嗚呼貴重之器遇彼擊碎</seg>
+              <seg type="diplomatic-text">非命斃人靦然不顧咄嗟嗚呼貴重之器遇彼擊碎</seg>
             </ab>
             <ab type="column" n="6" xml:id="f29-l-c06">
-              <seg type="diplomatic-text">不亦痛乎誰云庸醫之陰慝過于賊遠矣寧遇於賊</seg>
+              <seg type="diplomatic-text">不亦痛乎諺云庸醫之陰慝過于賊遠矣寧遇於賊</seg>
             </ab>
             <ab type="column" n="7" xml:id="f29-l-c07">
               <seg type="diplomatic-text">莫委身于庸醫</seg>
@@ -2694,7 +2698,7 @@
               <seg type="diplomatic-text">請學鍼法余視其爲人雄額濶面色如渥赭垂眼臨</seg>
             </ab>
             <ab type="column" n="10" xml:id="f29-l-c10">
-              <seg type="diplomatic-text">鼻長肘而麤狀貌魁偉武毅粗率非修醫之容非念</seg>
+              <seg type="diplomatic-text">鼻長肘而鼇狀貌魁偉武毅粗率非修醫之容非□</seg>
             </ab>
             <ab type="page-feature" subtype="running-title" corresp="#f29-l-c10">
               <label>版心葉次</label>
@@ -2727,6 +2731,18 @@
               <quote>麤</quote>
               <note type="editorial">第5欄「醜然」、第9欄「渥赭」、末欄「麤」待核。</note>
             </ab>
+            <ab type="transcription-issue" n="left:10">
+              <quote>□</quote>
+              <seg type="candidate">念</seg>
+              <seg type="candidate">捻</seg>
+              <note type="editorial">欄內有形近異體，末端紙邊缺損。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:10">
+              <quote>鼇</quote>
+              <seg type="candidate">鼇</seg>
+              <seg type="candidate">鰲</seg>
+              <note type="editorial">欄內有形近異體，末端紙邊缺損。</note>
+            </ab>
           </div>
         </div>
         <pb n="30" facs="#f30" />
@@ -2739,7 +2755,7 @@
               <seg type="diplomatic-text">用重寶記鍼法則諳鍼刺歌訣辭氣昂然無愧色余</seg>
             </ab>
             <ab type="column" n="3" xml:id="f30-r-c03">
-              <seg type="diplomatic-text">授刺法一二揖欣然而去門生捧腹笑其戇陋余喩</seg>
+              <seg type="diplomatic-text">授刺法一二痏欣然而去門生捧腹笑其戇陋余喩</seg>
             </ab>
             <ab type="column" n="4" xml:id="f30-r-c04">
               <seg type="diplomatic-text">之曰勿笑勿笑智愚存乎其人精疎由于其師彼不</seg>
@@ -2754,7 +2770,7 @@
               <seg type="diplomatic-text">先賢崇詭說虛言唱喝談空理竦俗聽是豈不可惡</seg>
             </ab>
             <ab type="column" n="8" xml:id="f30-r-c08">
-              <seg type="diplomatic-text">之甚者乎今譯鶻古之言蛇足失真以訛傳人猶且</seg>
+              <seg type="diplomatic-text">之甚者乎今譯鴃舌之言蛇足失真以言傳人猶且</seg>
             </ab>
             <ab type="column" n="9" xml:id="f30-r-c09">
               <seg type="diplomatic-text">誤其意況曖昧之辨彷彿之義紛亂舛錯傳寸誤尺</seg>
@@ -2866,7 +2882,7 @@
               <seg type="diplomatic-text">之大萬物之多以有限之智極無窮之理不亦難哉</seg>
             </ab>
             <ab type="column" n="10" xml:id="f31-r-c10">
-              <seg type="diplomatic-text">若夫凡有角者無上齒果實繁者木必痺之類言其</seg>
+              <seg type="diplomatic-text">若夫凡有角者無上齒果實繁者木必庳之類言其</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2877,7 +2893,7 @@
               <seg type="diplomatic-text">得其情實者了無用於治術耳是之不悟而擘心椎</seg>
             </ab>
             <ab type="column" n="3" xml:id="f31-l-c03">
-              <seg type="diplomatic-text">骨以求之焦唇乾噬以說之不亦愚之甚哉吾黨小</seg>
+              <seg type="diplomatic-text">骨以求之焦唇乾嗌以說之不亦愚之甚哉吾黨小</seg>
             </ab>
             <ab type="column" n="4" xml:id="f31-l-c04">
               <seg type="diplomatic-text">子欲得醫道之蘊者莫如博讀聖賢之書篤信張氏</seg>
@@ -2934,7 +2950,7 @@
             <ab type="no-transcribed-text" />
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：終題刻於正面左一欄，右側欄框無本面文字，所見淺灰為透頁。 左面：末襯，無本面文字。</ab>
+            <ab type="layout">右面：終題刻於正面左一欄，右側欄框無本面文字，所見淺灰為透頁。 左面：末襯，無本面文字。 此幅沒有另列刊記，1853 年刊面見第 4 幅。</ab>
           </div>
         </div>
         <pb n="33" facs="#f33" />

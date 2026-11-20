@@ -1,0 +1,1487 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 14,
+  "changes": [
+    {
+      "image": 6,
+      "side": "left",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "治可求焉",
+      "after": "治可求矣",
+      "reason": "求下見厶形與矢字收筆，讀矣。",
+      "source_bbox": [
+        1830,
+        970,
+        2090,
+        1350
+      ],
+      "offset": [
+        2,
+        6
+      ],
+      "source_image_sha256": "2a6722e28025d048645e74960708c4331534153f51d248ac1d656d1afb26ebe0",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "顯□其",
+      "after": "顙□其",
+      "reason": "顙的左旁可見桑形。下一字不隨文意補定。",
+      "source_bbox": [
+        1685,
+        2055,
+        1870,
+        2440
+      ],
+      "offset": [
+        17,
+        20
+      ],
+      "source_image_sha256": "4c51192839960926abc46af3a0a74f8478e7afe626602cadd94954adc4f8f043",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/17"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "謇澁",
+      "after": "蹇澁",
+      "reason": "謇、蹇同上部，原件末筆為足形。",
+      "source_bbox": [
+        1720,
+        1180,
+        1860,
+        1450
+      ],
+      "offset": [
+        6,
+        8
+      ],
+      "source_image_sha256": "38077cfa40e0f6679d69308a4aa5cab8d2634413f92bb9d923f3dae895e9a86e",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": 4,
+      "kind": "main",
+      "op": "replace",
+      "before": "盯睞",
+      "after": "眄睞",
+      "reason": "盯字位置右旁可辨丏形，據圖作眄。",
+      "source_bbox": [
+        3115,
+        2070,
+        3280,
+        2245
+      ],
+      "offset": [
+        18,
+        20
+      ],
+      "source_image_sha256": "73e3bad32421be687a8c019b403282a8a0daf36983d1a7be1bcc156f1754a198",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28"
+    },
+    {
+      "image": 28,
+      "side": "left",
+      "column": 10,
+      "kind": "main",
+      "op": "replace",
+      "before": "日日調慮方",
+      "after": "日日調處方",
+      "reason": "調、方中間為虍下處形，非心底的慮。",
+      "source_bbox": [
+        835,
+        1880,
+        995,
+        2210
+      ],
+      "offset": [
+        12,
+        17
+      ],
+      "source_image_sha256": "73e3bad32421be687a8c019b403282a8a0daf36983d1a7be1bcc156f1754a198",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "醜然不顧",
+      "after": "靦然不顧",
+      "reason": "原刻前字左面右見。",
+      "source_bbox": [
+        1410,
+        1080,
+        1595,
+        1300
+      ],
+      "offset": [
+        4,
+        8
+      ],
+      "source_image_sha256": "72326f39f0dffb42b714a0348218cc53f91c24549ae3e42ec184d7570dec376d",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "誰云庸醫",
+      "after": "諺云庸醫",
+      "reason": "第一字右旁有彥的下方三撇。",
+      "source_bbox": [
+        1330,
+        1125,
+        1530,
+        1415
+      ],
+      "offset": [
+        4,
+        8
+      ],
+      "source_image_sha256": "72326f39f0dffb42b714a0348218cc53f91c24549ae3e42ec184d7570dec376d",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": 10,
+      "kind": "main",
+      "op": "replace",
+      "before": "而麤狀貌",
+      "after": "而鼇狀貌",
+      "reason": "第二字上敖下為密集黽形，暫用鼇並留異體候選。",
+      "source_bbox": [
+        840,
+        1080,
+        950,
+        1265
+      ],
+      "offset": [
+        3,
+        7
+      ],
+      "source_image_sha256": "72326f39f0dffb42b714a0348218cc53f91c24549ae3e42ec184d7570dec376d",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": 10,
+      "kind": "main",
+      "op": "replace",
+      "before": "容非念",
+      "after": "容非□",
+      "reason": "末字左半有紙邊缺損，保留原形候選。",
+      "source_bbox": [
+        845,
+        2170,
+        964,
+        2475
+      ],
+      "offset": [
+        17,
+        20
+      ],
+      "source_image_sha256": "72326f39f0dffb42b714a0348218cc53f91c24549ae3e42ec184d7570dec376d",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "法一二揖欣",
+      "after": "法一二痏欣",
+      "reason": "揖字位置原刻為疒內有形。",
+      "source_bbox": [
+        3295,
+        1225,
+        3412,
+        1408
+      ],
+      "offset": [
+        2,
+        7
+      ],
+      "source_image_sha256": "be95a0a3af656811f07f1dd054af1868d5f7ed510a0066135cdc5b6311877c13",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": 8,
+      "kind": "main",
+      "op": "replace",
+      "before": "今譯鶻古",
+      "after": "今譯鴃舌",
+      "reason": "兩字上作鳥旁形，下字上撇中豎下口，為舌。",
+      "source_bbox": [
+        2670,
+        1210,
+        2810,
+        1500
+      ],
+      "offset": [
+        4,
+        8
+      ],
+      "source_image_sha256": "be95a0a3af656811f07f1dd054af1868d5f7ed510a0066135cdc5b6311877c13",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": 8,
+      "kind": "main",
+      "op": "replace",
+      "before": "以訛傳人",
+      "after": "以言傳人",
+      "reason": "以字下為單體言，下接傳。",
+      "source_bbox": [
+        2670,
+        1820,
+        2825,
+        2190
+      ],
+      "offset": [
+        14,
+        18
+      ],
+      "source_image_sha256": "be95a0a3af656811f07f1dd054af1868d5f7ed510a0066135cdc5b6311877c13",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30"
+    },
+    {
+      "image": 31,
+      "side": "right",
+      "column": 10,
+      "kind": "main",
+      "op": "replace",
+      "before": "木必痺",
+      "after": "木必庳",
+      "reason": "卑在广形下，原刻作庳。",
+      "source_bbox": [
+        2402,
+        1890,
+        2575,
+        2275
+      ],
+      "offset": [
+        13,
+        16
+      ],
+      "source_image_sha256": "963db470d2912ea90d2c37f594ac89e1671fb1be8dd47a11262083779bc6f045",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/31"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "焦唇乾噬",
+      "after": "焦唇乾嗌",
+      "reason": "末字右半為益，下皿橫畫可見，左口。",
+      "source_bbox": [
+        1725,
+        1175,
+        1850,
+        1600
+      ],
+      "offset": [
+        4,
+        8
+      ],
+      "source_image_sha256": "963db470d2912ea90d2c37f594ac89e1671fb1be8dd47a11262083779bc6f045",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/31"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 2,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/2",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/3",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/4",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/4",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/4",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/4",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/5",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/6",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/7",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/7",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/7",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/8",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/8",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/8",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/9",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/9",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/9",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/10",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/10",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/10",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/10",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/10",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/10",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/10",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/11",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/11",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/14",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/14",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/15",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/15",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/16",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/16",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/16",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/16",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/16",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/17",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/17",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/17",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/17",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/17",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 18,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/18",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 19,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/19",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 21,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/21",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 21,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/21",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 22,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/22",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 22,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/22",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 22,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/22",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 22,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/22",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 22,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/22",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 22,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/22",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 22,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/22",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/23",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/23",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/23",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/23",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/23",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/23",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 23,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/23",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 23,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/23",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 24,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/24",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 24,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/24",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 24,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/24",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 25,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/25",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 25,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/25",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 25,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/25",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 25,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/25",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 25,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/25",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 25,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/25",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 26,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 26,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 26,
+      "side": "right",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 27,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/27",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 27,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/27",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 27,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/27",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 27,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/27",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 27,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/27",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 27,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/27",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 27,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/27",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 27,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/27",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 27,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/27",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 28,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 28,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 28,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 30,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 30,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 30,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 30,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 31,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/31",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 31,
+      "side": "right",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/31",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 31,
+      "side": "right",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/31",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/31",
+      "status": "疑處留存可定位紀錄"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/31",
+      "status": "疑處留存可定位紀錄"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 7,
+      "side": "right",
+      "column": 2,
+      "source_bbox": [
+        3230,
+        835,
+        3465,
+        2125
+      ],
+      "source_image_sha256": "d7b240124b2fbc86427fb84690f9de882bc9a61da02e664e6420879283754842",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/7",
+      "reading": "嘉永壬子歲晚立春前一日",
+      "status": "依原圖留讀",
+      "reason": "清楚可辨歲晚及立春前一日。此為序年，出版資訊依見返的癸丑。"
+    },
+    {
+      "image": 22,
+      "side": "right",
+      "column": 2,
+      "source_bbox": [
+        3415,
+        830,
+        3525,
+        1060
+      ],
+      "source_image_sha256": "73163c6728252320fa51c3525e4001dcda562af3cb589131ac5497170e7e6d38",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/22",
+      "reading": "法恊",
+      "status": "依原圖留讀",
+      "reason": "恊左心右劦。"
+    },
+    {
+      "image": 22,
+      "side": "right",
+      "column": 3,
+      "source_bbox": [
+        3310,
+        1160,
+        3410,
+        1400
+      ],
+      "source_image_sha256": "73163c6728252320fa51c3525e4001dcda562af3cb589131ac5497170e7e6d38",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/22",
+      "reading": "水銃",
+      "status": "依原圖留讀",
+      "reason": "銃右作充，維持原錄。"
+    },
+    {
+      "image": 22,
+      "side": "right",
+      "column": 6,
+      "source_bbox": [
+        2950,
+        1365,
+        3080,
+        1650
+      ],
+      "source_image_sha256": "73163c6728252320fa51c3525e4001dcda562af3cb589131ac5497170e7e6d38",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/22",
+      "reading": "抱衾與裯",
+      "status": "依原圖留讀",
+      "reason": "裯字可見衣旁與周，保留原錄。"
+    },
+    {
+      "image": 24,
+      "side": "right",
+      "column": 4,
+      "source_bbox": [
+        3195,
+        1040,
+        3317,
+        1430
+      ],
+      "source_image_sha256": "8581b77d957eeb1262e6e1964492aed2782564d0dfa5758e3bb229fdfc946054",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/24",
+      "reading": "下之之下",
+      "status": "依原圖留讀",
+      "reason": "兩個之字各獨立占一個字位。"
+    },
+    {
+      "image": 24,
+      "side": "right",
+      "column": 6,
+      "source_bbox": [
+        2930,
+        1190,
+        3065,
+        1535
+      ],
+      "source_image_sha256": "8581b77d957eeb1262e6e1964492aed2782564d0dfa5758e3bb229fdfc946054",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/24",
+      "reading": "四十三字",
+      "status": "依原圖留讀",
+      "reason": "四、十、三均可辨。"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": 10,
+      "source_bbox": [
+        862,
+        1630,
+        1010,
+        1875
+      ],
+      "source_image_sha256": "38077cfa40e0f6679d69308a4aa5cab8d2634413f92bb9d923f3dae895e9a86e",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/26",
+      "reading": "伴爲",
+      "status": "依原圖留讀",
+      "reason": "第一字右部像半，持表的候選照列。"
+    },
+    {
+      "image": 28,
+      "side": "left",
+      "column": 2,
+      "source_bbox": [
+        1850,
+        795,
+        1997,
+        1150
+      ],
+      "source_image_sha256": "73e3bad32421be687a8c019b403282a8a0daf36983d1a7be1bcc156f1754a198",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "reading": "兔置張鹿",
+      "status": "依原圖留讀",
+      "reason": "第二字下部近直形，初錄仍留，罝為另一候選。"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": 6,
+      "source_bbox": [
+        2960,
+        1130,
+        3120,
+        1320
+      ],
+      "source_image_sha256": "73e3bad32421be687a8c019b403282a8a0daf36983d1a7be1bcc156f1754a198",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/28",
+      "reading": "鼎鐺",
+      "status": "依原圖留讀",
+      "reason": "鼎下金旁，右部見田，原刻錄鐺。"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": 2,
+      "source_bbox": [
+        3400,
+        1655,
+        3560,
+        2030
+      ],
+      "source_image_sha256": "72326f39f0dffb42b714a0348218cc53f91c24549ae3e42ec184d7570dec376d",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29",
+      "reading": "洞炤",
+      "status": "依原圖留讀",
+      "reason": "第二字左火右召，仍用炤。"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": 10,
+      "source_bbox": [
+        2440,
+        1610,
+        2580,
+        1990
+      ],
+      "source_image_sha256": "72326f39f0dffb42b714a0348218cc53f91c24549ae3e42ec184d7570dec376d",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/29",
+      "reading": "係以",
+      "status": "依原圖留讀",
+      "reason": "人旁與系部可辨。"
+    },
+    {
+      "image": 30,
+      "side": "left",
+      "column": 4,
+      "source_bbox": [
+        1615,
+        1010,
+        1780,
+        1535
+      ],
+      "source_image_sha256": "be95a0a3af656811f07f1dd054af1868d5f7ed510a0066135cdc5b6311877c13",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/30",
+      "reading": "味噌和氣飲",
+      "status": "依原圖留讀",
+      "reason": "味下為口與曾，保留諧音誤讀原文。"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 6,
+      "source_bbox": [
+        1350,
+        815,
+        1475,
+        1465
+      ],
+      "source_image_sha256": "963db470d2912ea90d2c37f594ac89e1671fb1be8dd47a11262083779bc6f045",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/31",
+      "reading": "此亦遠馬耳",
+      "status": "依原圖留讀",
+      "reason": "遠下可見馬的四點，保留原錄。"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 8,
+      "source_bbox": [
+        1140,
+        1125,
+        1270,
+        1550
+      ],
+      "source_image_sha256": "963db470d2912ea90d2c37f594ac89e1671fb1be8dd47a11262083779bc6f045",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100348103/canvas/31",
+      "reading": "勉旃小子勉旃",
+      "status": "依原圖留讀",
+      "reason": "勉旃確兩見，句末欄內留白。"
+    }
+  ]
+}

@@ -4,11 +4,11 @@
 
 Chōsa iwa shohen is Kishida Un’s Literary Chinese discussion of reading Zhang Zhongjing’s Shanghan lun and applying it to cases in Edo-period Japan. The title leaf of Kyushu University’s copy records that the blocks were newly cut in 1853. Its discussions and case anecdotes document interpretations of medical classics, physicians’ training, and misunderstandings arising from homophones in Japanese readings.
 
-## V0.1.0
+## V0.2.0
 
-全冊 33 幅有原圖定位，正刊自第 4 幅至第 32 幅右面。第 3 與第 4 幅拍攝同一開面，第 4 幅可完整讀見返，正文依第 4 幅；另錄封面題籤和藏記。本版為 AI 輔助初錄，疑字有原圖定位。
+全冊 33 幅有原圖定位，正刊自第 4 幅至第 32 幅右面。第 3 與第 4 幅拍攝同一開面，第 4 幅可完整讀見返，正文依第 4 幅；另錄封面題籤和藏記。比對未見初稿的本機 OCR 候選後，回圖裁定採用 14 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 33 scans are indexed. The printed text extends from scan 4 to scan 32 right. Scans 3 and 4 show the same opening. Scan 4 is the reading copy for the unobstructed title leaf, with binding and library details recorded separately. This is an AI-assisted initial transcription with source-image references for uncertain characters.
+All 33 scans are indexed. The printed text extends from scan 4 to scan 32 right. Scans 3 and 4 show the same opening. Scan 4 is the reading copy for the unobstructed title leaf, with binding and library details recorded separately. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 14 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
